@@ -8,4 +8,4 @@
 1074 | [Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/) | [C++](./C++/number-of-submatrices-that-sum-to-target.cpp)  | _O(n^4)_ | _O(n^2)_      | Hard         ||
 0019| [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| [C++](./C++/remove-nth-node-from-end-of-list.cpp) | _O(n)_       | _O(1)_         | Medium         || 
 0377| [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)| [C++](./C++/combination-sum-iv.cpp) |_O(n * t)_ | _O(t)_ | Medium | |
-589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [C++](./C++/n-ary-tree-preorder-traversal.cpp) [Python](./Python/n-ary-tree-preorder-traversal.py) | _O(n)_       | _O(n)_         | Easy         || 
+0589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [C++](./C++/n-ary-tree-preorder-traversal.cpp) [Python](./Python/n-ary-tree-preorder-traversal.py) | _O(n)_       | _O(n)_         | Easy         || 
