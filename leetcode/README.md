@@ -9,3 +9,4 @@
 0019| [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| [C++](./C++/remove-nth-node-from-end-of-list.cpp) | _O(n)_       | _O(1)_         | Medium         || 
 0377| [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)| [C++](./C++/combination-sum-iv.cpp) |_O(n * t)_ | _O(t)_ | Medium | |
 0589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [C++](./C++/n-ary-tree-preorder-traversal.cpp) [Python](./Python/n-ary-tree-preorder-traversal.py) | _O(n)_       | _O(n)_         | Easy         || 
+0120| [Triangle](https://leetcode.com/problems/triangle/)       | [C++](./C++/triangle.cpp) [Python](./Python/triangle.py)   | _O(m * n)_      | _O(n)_         | Medium         ||
