@@ -11,3 +11,4 @@
 0589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [C++](./C++/n-ary-tree-preorder-traversal.cpp) [Python](./Python/n-ary-tree-preorder-traversal.py) | _O(n)_       | _O(n)_         | Easy         || 
 0120| [Triangle](https://leetcode.com/problems/triangle/)       | [C++](./C++/triangle.cpp) [Python](./Python/triangle.py)   | _O(m * n)_      | _O(n)_         | Medium         ||
 0554| [Brick Wall](https://leetcode.com/problems/brick-wall/) |[C++](./C++/brick-wall.cpp)  [Python](./Python/brick-wall.py) | _O(n)_ | _O(m)_ | Medium         | |
+0696| [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/) | [C++](./C++/count-binary-substrings.cpp) [Python](./Python/count-binary-substrings.py) | _O(n)_ | _O(1)_ | Easy||
