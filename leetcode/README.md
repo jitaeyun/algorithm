@@ -17,3 +17,4 @@
 1642 | [Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/) | [C++](./C++/furthest-building-you-can-reach.cpp) [Python](./Python/furthest-building-you-can-reach.py) | _O(nlogk)_ | _O(k)_ | Medium | | |
 0326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | [C++](./C++/power-of-three.cpp) [Python](./Python/power-of-three.py) | _O(1)_ | _O(1)_ | Easy |||
 0063| [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [C++](./C++/unique-paths-ii.cpp) [Python](./Python/unique-paths-ii.py) |  _O(m * n)_ | _O(m + n)_   | Medium         ||
+0034| [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [C++](./C++/find-first-and-last-position-of-element-in-sorted-array.cpp) [Python](./Python/find-first-and-last-position-of-element-in-sorted-array.py) |  _O(logn)_ | _O(1)_   | Medium         ||
