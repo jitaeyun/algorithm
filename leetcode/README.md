@@ -20,3 +20,4 @@
 0034| [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [C++](./C++/find-first-and-last-position-of-element-in-sorted-array.cpp) [Python](./Python/find-first-and-last-position-of-element-in-sorted-array.py) |  _O(logn)_ | _O(1)_   | Medium         ||
 0970 | [Powerful Integers](https://leetcode.com/problems/powerful-integers/) | [C++](./C++/powerful-integers.cpp) [Python](./Python/powerful-integers.py) | _O((logn)^2)_ | _O(r)_      | Easy         ||
 **0745**| [Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search/) | [C++](./C++/prefix-and-suffix-search.cpp) [Python](./Python/prefix-and-suffix-search.py) | O(w*l^2) | _O(w*l^2)_ | Hard ||
+**0630**| [Course Schedule III](https://leetcode.com/problems/course-schedule-iii/) | [C++](./C++/course-schedule-iii.cpp) [Python](./Python/course-schedule-iii.py) | _O(nlogn)_ | _O(k)_ | Hard ||
