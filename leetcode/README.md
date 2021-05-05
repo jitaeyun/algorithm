@@ -22,5 +22,5 @@
 **0745**| [Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search/) | [C++](./C++/prefix-and-suffix-search.cpp) [Python](./Python/prefix-and-suffix-search.py) | O(w*l^2) | _O(w*l^2)_ | Hard ||
 **0630**| [Course Schedule III](https://leetcode.com/problems/course-schedule-iii/) | [C++](./C++/course-schedule-iii.cpp) [Python](./Python/course-schedule-iii.py) | _O(nlogn)_ | _O(k)_ | Hard ||
 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [C++](./C++/running-sum-of-1d-array.cpp) [Python](./Python/running-sum-of-1d-array.py) | _O(n)_ | _O(1)_      | Easy   ||
-0665| [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/) | [C++](./C++/non-decreasing-array.cpp) [Python](./Python/non-decreasing-array.py)  | _O(n)_ |  _O(1)_ | Easy         |||
-1306|[Jump Game III](https://leetcode.com/problems/jump-game-iii/)| [C++](./C++/jump-game-iii.cpp) [Python](./Python/jump-game-iii.py)| _O(n)_ | _O(n)_ | Medium | | |
+**0665**| [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/) | [C++](./C++/non-decreasing-array.cpp) [Python](./Python/non-decreasing-array.py)  | _O(n)_ |  _O(1)_ | Easy         |||
+**1306**|[Jump Game III](https://leetcode.com/problems/jump-game-iii/)| [C++](./C++/jump-game-iii.cpp) [Python](./Python/jump-game-iii.py)| _O(n)_ | _O(n)_ | Medium | | |
