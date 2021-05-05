@@ -17,3 +17,20 @@ public:
         return 0;
     }
 };
+/*
+class Solution {
+public:
+    int jump(vector<int>& nums) {
+        int dist=0,cur=nums[0],sol=1,sz=nums.size();
+        if(sz==1) return 0;
+        for(int i=0; i<sz&&cur+1<sz; ++i){
+            if(dist<i+nums[i]) dist=i+nums[i];
+            if(i==cur){
+                cur=dist;
+                ++sol;
+            }
+        }
+        return sol;
+    }
+};
+*/
