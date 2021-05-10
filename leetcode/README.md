@@ -34,3 +34,4 @@
 **0204**| [Count Primes](https://leetcode.com/problems/count-primes/)  | [C++](./C++/count-primes.cpp) [Python](./Python/count-primes.py) | _O(n*n)_ | _O(n)_  | Easy ||
 0819| [Most Common Word](https://leetcode.com/problems/most-common-word/) | [C++](./C++/most-common-word.cpp)  [Python](./Python/most-common-word.py) | _O(m + n)_ | _O(m + n)_ | Easy ||
 0049| [Group Anagrams](https://leetcode.com/problems/group-anagrams/)     | [C++](./C++/group-anagrams.cpp) [Python](./Python/group-anagrams.py)   | _O(n * glogg)_  | _O(n)_ | Medium  ||
+**0005**| [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [C++](./C++/longest-palindromic-substring.cpp) [Python](./Python/longest-palindromic-substring.py) | _O(n*n)_ | _O(1)_ |  Medium ||
