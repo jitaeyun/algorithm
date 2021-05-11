@@ -37,3 +37,4 @@
 **0005**| [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [C++](./C++/longest-palindromic-substring.cpp) [Python](./Python/longest-palindromic-substring.py) | _O(n*n)_ | _O(1)_ |  Medium ||
 **1423**| [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | [C++](./C++/maximum-points-you-can-obtain-from-cards.cpp) [Python](./Python/maximum-points-you-can-obtain-from-cards.py) | _O(k)_ | _O(1)_ | Medium ||
 0001| [Two Sum](https://leetcode.com/problems/two-sum/)      | [C++](./C++/two-sum.cpp) [Python](./Python/two-sum.py)  | _O(n)_ | _O(n)_  | Easy ||
+**0042**| [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [C++](./C++/trapping-rain-water.cpp) [Python](./Python/trapping-rain-water.py) | _O(n)_ | _O(n)_ | Hard ||
