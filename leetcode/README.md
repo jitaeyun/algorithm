@@ -38,3 +38,4 @@
 **1423**| [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | [C++](./C++/maximum-points-you-can-obtain-from-cards.cpp) [Python](./Python/maximum-points-you-can-obtain-from-cards.py) | _O(k)_ | _O(1)_ | Medium ||
 0001| [Two Sum](https://leetcode.com/problems/two-sum/)      | [C++](./C++/two-sum.cpp) [Python](./Python/two-sum.py)  | _O(n)_ | _O(n)_  | Easy ||
 **0042**| [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [C++](./C++/trapping-rain-water.cpp) [Python](./Python/trapping-rain-water.py) | _O(n)_ | _O(n)_ | Hard ||
+**0304**| [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)| [C++](./C++/range-sum-query-2d-immutable.cpp) [Python](./Python/range-sum-query-2d-immutable.py) | ctor: _O(m * n)_, lookup: _O(1)_ | _O(m * n)_ | Medium  ||
