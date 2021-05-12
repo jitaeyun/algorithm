@@ -40,3 +40,4 @@
 **0042**| [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [C++](./C++/trapping-rain-water.cpp) [Python](./Python/trapping-rain-water.py) | _O(n)_ | _O(n)_ | Hard ||
 **0304**| [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)| [C++](./C++/range-sum-query-2d-immutable.cpp) [Python](./Python/range-sum-query-2d-immutable.py) | ctor: _O(m * n)_, lookup: _O(1)_ | _O(m * n)_ | Medium  ||
 **0015**| [3 Sum](https://leetcode.com/problems/3sum/) | [C++](./C++/3sum.cpp) [Python](./Python/3sum.py) | _O(n^2)_ | _O(1)_ | Medium ||
+0561| [Array Partition I](https://leetcode.com/problems/array-partition-i/) |[C++](./C++/array-partition-i.cpp)  [Python](./Python/array-partition-i.py) | _O(n*logn)_ | _O(1)_ | Easy | |
