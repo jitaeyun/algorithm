@@ -42,3 +42,4 @@
 **0015**| [3 Sum](https://leetcode.com/problems/3sum/) | [C++](./C++/3sum.cpp) [Python](./Python/3sum.py) | _O(n^2)_ | _O(1)_ | Medium ||
 0561| [Array Partition I](https://leetcode.com/problems/array-partition-i/) |[C++](./C++/array-partition-i.cpp)  [Python](./Python/array-partition-i.py) | _O(n*logn)_ | _O(1)_ | Easy | |
 **0238** | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [C++](./C++/product-of-array-except-self.cpp)  [Python](./Python/product-of-array-except-self.py) | _O(n)_ | _O(n)_ | Medium |
+0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| [C++](./C++/best-time-to-buy-and-sell-stock.cpp) [Python](./Python/best-time-to-buy-and-sell-stock.py) | _O(n)_ | _O(1)_ | Easy ||
