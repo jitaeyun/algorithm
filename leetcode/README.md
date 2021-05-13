@@ -48,4 +48,4 @@
 **0021**| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [C++](./C++/merge-two-sorted-lists.cpp) [Python](./Python/merge-two-sorted-lists.py) | _O(n)_ | _O(1)_ | Easy ||
 **0206**| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [C++](./C++/reverse-linked-list.cpp) [Python](./Python/reverse-linked-list.py) | _O(n)_ | _O(1)_  | Easy || 
 0002| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [C++](./C++/add-two-numbers.cpp) [Python](./Python/add-two-numbers.py) | _O(n)_   | _O(1)_ | Medium  ||
-0024| [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| [C++](./C++/swap-nodes-in-pairs.cpp) [Python](./Python/swap-nodes-in-pairs.py)   | _O(n)_  | _O(1)_  | Medium ||
+**0024**| [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| [C++](./C++/swap-nodes-in-pairs.cpp) [Python](./Python/swap-nodes-in-pairs.py)   | _O(n)_  | _O(1)_  | Medium ||
