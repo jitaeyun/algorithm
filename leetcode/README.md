@@ -52,3 +52,4 @@
 **0114**| [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)| [C++](./C++/flatten-binary-tree-to-linked-list.cpp) [Python](./Python/flatten-binary-tree-to-linked-list.py)| _O(n)_  | _O(h)_  | Medium ||
 0328| [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)| [C++](./C++/odd-even-linked-list.cpp) [Python](./Python/odd-even-linked-list.py) | _O(n)_  | _O(1)_  | Medium  | |
 **0092**| [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)| [C++](./C++/reverse-linked-list-ii.cpp) [Python](./Python/reverse-linked-list-ii.py) | _O(n)_ | _O(1)_ | Medium || 
+**0065**| [Valid Number](https://leetcode.com/problems/valid-number/) | [C++](./C++/valid-number.cpp) [Python](./Python/valid-number.py) | _O(n)_  | _O(1)_ | Hard ||
