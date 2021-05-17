@@ -58,3 +58,4 @@
 **1048**| [Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | [C++](./C++/longest-string-chain.cpp) [Python](./Python/longest-string-chain.py) |  _O(n * l^2)_ | _O(n * l)_ | Medium  ||
 **0316**| [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | [C++](./C++/remove-duplicate-letters.cpp) [Python](./Python/remove-duplicate-letters.py) | _O(n)_| _O(1)_| Medium ||
 0739| [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [C++](./C++/daily-temperatures.cpp) [Python](./Python/daily-temperatures.py) | _O(n)_  | _O(n)_ | Medium ||
+0225| [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)     | [C++](./C++/implement-stack-using-queues.cpp) [Python](./Python/implement-stack-using-queues.py)  | push: _O(n)_, pop: _O(1)_, top: _O(1)_ | _O(n)_ | Easy ||
