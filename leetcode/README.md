@@ -61,3 +61,4 @@
 0225| [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)     | [C++](./C++/implement-stack-using-queues.cpp) [Python](./Python/implement-stack-using-queues.py)  | push: _O(n)_, pop: _O(1)_, top: _O(1)_ | _O(n)_ | Easy ||
 0609| [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/) |[C++](./C++/find-duplicate-file-in-system.cpp)  [Python](./Python/find-duplicate-file-in-system.py) | _O(n * l)_ | _O(n * l)_ | Medium | |
 **0232**| [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [C++](./C++/implement-queue-using-stacks.cpp) [Python](./Python/implement-queue-using-stacks.py) | _O(1)_ | _O(n)_| Easy ||
+**0622**| [Design Circular Queue](https://https://leetcode.com/problems/design-circular-queue/) | [C++](./C++/design-circular-queue.cpp) [Python](./Python/design-circular-queue.py) | _O(1)_ | _O(n)_| Medium ||
