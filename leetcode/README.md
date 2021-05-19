@@ -65,3 +65,4 @@
 **0023**| [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [C++](./C++/merge-k-sorted-lists.cpp) [Python](./Python/merge-k-sorted-lists.py) | _O(nlogk)_| _O(1)_| Hard  | |
 0771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [C++](./C++/jewels-and-stones.cpp) [Python](./Python/jewels-and-stones.py) | _O(m + n)_ | _O(n)_ | Easy ||
 **0003**| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C++](./C++/longest-substring-without-repeating-characters.cpp) [Python](./Python/longest-substring-without-repeating-characters.py) | _O(n)_ | _O(1)_ | Medium ||
+**0347**| [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [C++](./C++/top-k-frequent-elements.cpp) [Python](./Python/top-k-frequent-elements.py) | _O(n*logn)_ | _O(n*logn)_  | Medium ||
