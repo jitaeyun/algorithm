@@ -63,3 +63,4 @@
 **0232**| [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [C++](./C++/implement-queue-using-stacks.cpp) [Python](./Python/implement-queue-using-stacks.py) | _O(1)_ | _O(n)_| Easy ||
 **0622**| [Design Circular Queue](https://https://leetcode.com/problems/design-circular-queue/) | [C++](./C++/design-circular-queue.cpp) [Python](./Python/design-circular-queue.py) | _O(1)_ | _O(n)_| Medium ||
 **0023**| [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [C++](./C++/merge-k-sorted-lists.cpp) [Python](./Python/merge-k-sorted-lists.py) | _O(nlogk)_| _O(1)_| Hard  | |
+0771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [C++](./C++/jewels-and-stones.cpp) [Python](./Python/jewels-and-stones.py) | _O(m + n)_ | _O(n)_ | Easy ||
