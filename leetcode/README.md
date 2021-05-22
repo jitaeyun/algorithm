@@ -70,3 +70,4 @@
 0102| [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)| [C++](./C++/binary-tree-level-order-traversal.cpp) [Python](./Python/binary-tree-level-order-traversal.py)| _O(n)_| _O(n)_| Easy  ||
 0200| [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [C++](./C++/number-of-islands.cpp) [Python](./Python/number-of-islands.py) | _O(m * n)_ | _O(m * n)_| Medium ||
 0017| [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| [C++](./C++/letter-combinations-of-a-phone-number.cpp) [Python](./Python/letter-combinations-of-a-phone-number.py) | _O(n * 4^n)_ | _O(1)_ | Medium ||
+0890 | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/) | [C++](./C++/find-and-replace-pattern.cpp) [Python](./Python/find-and-replace-pattern.py) | _O(n * l)_ | _O(1)_ | Medium ||
