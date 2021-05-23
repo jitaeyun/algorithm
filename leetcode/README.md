@@ -73,3 +73,4 @@
 0890 | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/) | [C++](./C++/find-and-replace-pattern.cpp) [Python](./Python/find-and-replace-pattern.py) | _O(n * l)_ | _O(1)_ | Medium ||
 0051| [N-Queens](https://leetcode.com/problems/n-queens/)      | [C++](./C++/n-queens.cpp) [Python](./Python/n-queens.py)  | _O(n!)_ | _O(n)_   | Hard  ||
 0046| [Permutations](https://leetcode.com/problems/permutations/)| [C++](./C++/permutations.cpp) [Python](./Python/permutations.py) | _O(n * n!)_   | _O(n)_  | Medium  ||
+0077| [Combinations](https://leetcode.com/problems/combinations/)  | [C++](./C++/combinations.cpp) [Python](./Python/combinations.py) | _O(O(k * C(n, k)))_ | _O(k)_  | Medium ||
