@@ -75,3 +75,4 @@
 0046| [Permutations](https://leetcode.com/problems/permutations/)| [C++](./C++/permutations.cpp) [Python](./Python/permutations.py) | _O(n * n!)_   | _O(n)_  | Medium  ||
 0077| [Combinations](https://leetcode.com/problems/combinations/)  | [C++](./C++/combinations.cpp) [Python](./Python/combinations.py) | _O(O(k * C(n, k)))_ | _O(k)_  | Medium ||
 **0039**| [Combination Sum](https://leetcode.com/problems/combination-sum/)| [C++](./C++/combination-sum.cpp) [Python](./Python/combination-sum.py) | _O(k * n^k)_ | _O(k)_  | Medium ||
+**0943**| [Find the Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring/) | [C++](./C++/find-the-shortest-superstring.cpp) [Python](./Python/find-the-shortest-superstring.py) | _O(n^2 * (l^2 + 2^n))_ | _O(n^2)_ | Hard |||
