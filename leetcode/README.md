@@ -74,3 +74,4 @@
 0051| [N-Queens](https://leetcode.com/problems/n-queens/)      | [C++](./C++/n-queens.cpp) [Python](./Python/n-queens.py)  | _O(n!)_ | _O(n)_   | Hard  ||
 0046| [Permutations](https://leetcode.com/problems/permutations/)| [C++](./C++/permutations.cpp) [Python](./Python/permutations.py) | _O(n * n!)_   | _O(n)_  | Medium  ||
 0077| [Combinations](https://leetcode.com/problems/combinations/)  | [C++](./C++/combinations.cpp) [Python](./Python/combinations.py) | _O(O(k * C(n, k)))_ | _O(k)_  | Medium ||
+**0039**| [Combination Sum](https://leetcode.com/problems/combination-sum/)| [C++](./C++/combination-sum.cpp) [Python](./Python/combination-sum.py) | _O(k * n^k)_ | _O(k)_  | Medium ||
