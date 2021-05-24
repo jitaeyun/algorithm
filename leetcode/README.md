@@ -77,3 +77,4 @@
 **0039**| [Combination Sum](https://leetcode.com/problems/combination-sum/)| [C++](./C++/combination-sum.cpp) [Python](./Python/combination-sum.py) | _O(k * n^k)_ | _O(k)_  | Medium ||
 **0943**| [Find the Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring/) | [C++](./C++/find-the-shortest-superstring.cpp) [Python](./Python/find-the-shortest-superstring.py) | _O(n^2 * (l^2 + 2^n))_ | _O(n^2)_ | Hard ||
 0078| [Subsets](https://leetcode.com/problems/subsets/)  | [C++](./C++/subsets.cpp)  [Python](./Python/subsets.py) | _O(n * 2^n)_ | _O(1)_ | Medium  ||
+0709| [To Lower Case](https://leetcode.com/problems/to-lower-case/)  | [C++](./C++/lower-case.cpp)  [Python](./Python/lower-case.py) | _O(n)_ | _O(1)_ | Easy  ||
