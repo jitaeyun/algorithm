@@ -80,3 +80,4 @@
 0709| [To Lower Case](https://leetcode.com/problems/to-lower-case/)  | [C++](./C++/lower-case.cpp)  [Python](./Python/lower-case.py) | _O(n)_ | _O(1)_ | Easy  ||
 **0332**| [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | [C++](./C++/reconstruct-itinerary.cpp)  [Python](./Python/reconstruct-itinerary.py)  | _O(t! / (n1! * n2! * ... nk!))_ | _O(t)_ | Medium |||
 **0207**| [Course Schedule](https://leetcode.com/problems/course-schedule/)| [C++](./C++/course-schedule.cpp) [Python](./Python/course-schedule.py)   | _O(\|V\| + \|E\|)_  | _O(\|E\|)_  | Medium ||
+**0743**|[Network Delay Time](https://leetcode.com/problems/network-delay-time/)| [C++](./C++/network-delay-time.cpp) [Python](./Python/network-delay-time.py)| _O(\|E\| * log\|V\|)_ | _O(\|E\|)_ | Medium | |
