@@ -87,3 +87,4 @@
 0226| [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [C++](./C++/invert-binary-tree.cpp) [Python](./Python/invert-binary-tree.py) | _O(n)_ | _O(h)_, _O(w)_ | Easy ||
 **0617**|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)| [C++](./C++/merge-two-binary-trees.cpp) [Python](./Python/merge-two-binary-trees.py)| _O(n)_ | _O(h)_ | Easy | | |
 **0297** | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [C++](./C++/serialize-and-deserialize-binary-tree.cpp) [Python](./Python/serialize-and-deserialize-binary-tree.py) | _O(n)_ | _O(h)_ | Hard | LintCode |
+0110| [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [C++](./C++/balanced-binary-tree.cpp) [Python](./Python/balanced-binary-tree.py) | _O(n)_| _O(h)_   | Easy ||
