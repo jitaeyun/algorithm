@@ -92,4 +92,4 @@
 **1695**| [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/) | [C++](./C++/maximum-erasure-value.cpp) [Python](./Python/maximum-erasure-value.py) | _O(n)_ | _O(n)_ | Medium ||
 **0310**| [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)| [C++](./C++/minimum-height-trees.cpp) [Python](./Python/minimum-height-trees.py) | _O(n)_ | _O(n)_ | Medium ||
 0108| [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [C++](./C++/convert-sorted-array-to-binary-search-tree.cpp) [Python](./Python/convert-sorted-array-to-binary-search-tree.py) | _O(n)_ | _O(logn)_  | Medium ||
-0052| [N-Queens-II](https://leetcode.com/problems/n-queens-ii/) | [C++](./C++/n-queens-ii.cpp) [Python](./Python/n-queens-ii.py) | _O(n!)_ | _O(n)_ | Hard ||
+**0052**| [N-Queens-II](https://leetcode.com/problems/n-queens-ii/) | [C++](./C++/n-queens-ii.cpp) [Python](./Python/n-queens-ii.py) | _O(n!)_ | _O(n)_ | Hard ||
