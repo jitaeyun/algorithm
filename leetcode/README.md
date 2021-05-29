@@ -93,3 +93,4 @@
 **0310**| [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)| [C++](./C++/minimum-height-trees.cpp) [Python](./Python/minimum-height-trees.py) | _O(n)_ | _O(n)_ | Medium ||
 0108| [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [C++](./C++/convert-sorted-array-to-binary-search-tree.cpp) [Python](./Python/convert-sorted-array-to-binary-search-tree.py) | _O(n)_ | _O(logn)_  | Medium ||
 **0052**| [N-Queens-II](https://leetcode.com/problems/n-queens-ii/) | [C++](./C++/n-queens-ii.cpp) [Python](./Python/n-queens-ii.py) | _O(n!)_ | _O(n)_ | Hard ||
+**1038**|[Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)| [C++](./C++/binary-search-tree-to-greater-sum-tree.cpp) [Python](./Python/binary-search-tree-to-greater-sum-tree.py)| _O(n)_ | _O(h)_ | Medium ||
