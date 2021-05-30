@@ -97,3 +97,4 @@
 0938| [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [C++](./C++/range-sum-of-bst.cpp) [Python](./Python/range-sum-of-bst.py) | _O(n)_ | _O(h)_ | Medium || 
 **0164**| [Maximum Gap](https://leetcode.com/problems/maximum-gap/)   | [C++](./C++/maximum-gap.cpp) [Python](./Python/maximum-gap.py)| _O(n)_ | _O(n)_  | Hard ||
 0783|[Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)| [C++](./C++/minimum-distance-between-bst-nodes.cpp) [Python](./Python/minimum-distance-between-bst-nodes.py)| _O(n)_ | _O(h)_ | Easy ||
+**0105**| [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [C++](./C++/construct-binary-tree-from-preorder-and-inorder-traversal.cpp) [Python](./Python/construct-binary-tree-from-preorder-and-inorder-traversal.py) | _O(n)_ | _O(n)_  | Medium ||
