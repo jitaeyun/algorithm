@@ -101,3 +101,4 @@
 **1268**| [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) | [C++](./C++/search-suggestions-system.cpp) [Python](./Python/search-suggestions-system.py) | ctor: _O(n * l)_<br> suggest: _O(l^2)_ | _O(t)_ | Medium ||
 0215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [C++](./C++/kth-largest-element-in-an-array.cpp) [Python](./Python/kth-largest-element-in-an-array.py)| _O(n*logn)_ | _O(n)_ | Medium |
 **0208** | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [C++](./C++/implement-trie-prefix-tree.cpp) [Python](./Python/implement-trie-prefix-tree.py) | _O(n)_ | _O(n)_ | Medium ||
+0695| [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [C++](./C++/max-area-of-island.cpp) [Python](./Python/max-area-of-island.py) | _O(m * n)_ | _O(m * n)_ | Easy ||
