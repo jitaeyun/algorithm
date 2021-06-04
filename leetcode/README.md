@@ -112,3 +112,4 @@
 0242| [Valid Anagram](https://leetcode.com/problems/valid-anagram/)| [C++](./C++/valid-anagram.cpp) [Python](./Python/valid-anagram.py) | _O(n)_ | _O(n)_  | Easy |
 **0752**|[Open the Lock](https://leetcode.com/problems/open-the-lock/)| [C++](./C++/open-the-lock.cpp) [Python](./Python/open-the-lock.py)| _O(k * n^k + d)_ | _O(k * n^k + d)_ | Medium | | |
 0075| [Sort Colors](https://leetcode.com/problems/sort-colors/) | [C++](./C++/sort-colors.cpp) [Python](./Python/sort-colors.py) | _O(n*logn)_ | _O(1)_ | Medium ||
+0973| [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [C++](./C++/k-closest-points-to-origin.cpp) [Python](./Python/k-closest-points-to-origin.py) | _O(n*logn)_ | _O(1)_ | Medium ||
