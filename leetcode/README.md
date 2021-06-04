@@ -111,3 +111,4 @@
 **0747**| [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | [C++](./C++/largest-number-at-least-twice-of-others.cpp) [Python](./Python/largest-number-at-least-twice-of-others.py) | _O(n)_ | _O(1)_ | Easy ||
 0242| [Valid Anagram](https://leetcode.com/problems/valid-anagram/)| [C++](./C++/valid-anagram.cpp) [Python](./Python/valid-anagram.py) | _O(n)_ | _O(n)_  | Easy |
 **0752**|[Open the Lock](https://leetcode.com/problems/open-the-lock/)| [C++](./C++/open-the-lock.cpp) [Python](./Python/open-the-lock.py)| _O(k * n^k + d)_ | _O(k * n^k + d)_ | Medium | | |
+0075| [Sort Colors](https://leetcode.com/problems/sort-colors/) | [C++](./C++/sort-colors.cpp) [Python](./Python/sort-colors.py) | _O(n*logn)_ | _O(1)_ | Medium ||
