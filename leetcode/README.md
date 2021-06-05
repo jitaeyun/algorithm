@@ -115,3 +115,4 @@
 0973| [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [C++](./C++/k-closest-points-to-origin.cpp) [Python](./Python/k-closest-points-to-origin.py) | _O(n*logn)_ | _O(1)_ | Medium ||
 **1383**| [Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team/) | [C++](./C++/maximum-performance-of-a-team.cpp) [Python](./Python/maximum-performance-of-a-team.py) | _O(nlogn)_ | _O(n)_ | Hard | 
 0704| [Binary Search](https://leetcode.com/problems/binary-search/) | [C++](./C++/binary-search.cpp) [Python](./Python/binary-search.py) | _O(logn)_ | _O(1)_ | Easy ||
+**0033**| [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [C++](./C++/search-in-rotated-sorted-array.cpp) [Python](./Python/search-in-rotated-sorted-array.py) | _O(logn)_ | _O(1)_   | Medium |
