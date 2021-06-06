@@ -117,3 +117,4 @@
 0704| [Binary Search](https://leetcode.com/problems/binary-search/) | [C++](./C++/binary-search.cpp) [Python](./Python/binary-search.py) | _O(logn)_ | _O(1)_ | Easy ||
 **0033**| [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [C++](./C++/search-in-rotated-sorted-array.cpp) [Python](./Python/search-in-rotated-sorted-array.py) | _O(logn)_ | _O(1)_   | Medium |
 **0128** | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)| [C++](./C++/longest-consecutive-sequence.cpp)  [Python](./Python/longest-consecutive-sequence.py) | _O(n)_ | _O(n)_ | Hard ||
+0349| [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [C++](./C++/intersection-of-two-arrays.cpp)  [Python](./Python/intersection-of-two-arrays.py) | _O(m + n)_ | _O(min(m, n))_ | Easy ||
