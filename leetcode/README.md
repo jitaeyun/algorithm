@@ -125,3 +125,4 @@
 0461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [C++](./C++/hamming-distance.cpp) [Python](./Python/hamming-distance.py) | _O(1)_ | _O(1)_ | Easy ||
 **0371**| [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [C++](./C++/sum-of-two-integers.cpp) [Python](./Python/sum-of-two-integers.py) | _O(1)_ | _O(1)_ | Medium |
 **1696**| [Jump Game VI](https://leetcode.com/problems/jump-game-vi/) | [C++](./C++/jump-game-vi.cpp) [Python](./Python/jump-game-vi.py) | _O(n)_ | _O(k)_ | Medium | |
+**0393**| [UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/) | [C++](./C++/utf-8-validation.cpp) [Python](./Python/utf-8-validation.py) | _O(n)_ | _O(1)_ | Medium | |
