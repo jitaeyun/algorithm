@@ -127,3 +127,4 @@
 **1696**| [Jump Game VI](https://leetcode.com/problems/jump-game-vi/) | [C++](./C++/jump-game-vi.cpp) [Python](./Python/jump-game-vi.py) | _O(n)_ | _O(k)_ | Medium | |
 **0393**| [UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/) | [C++](./C++/utf-8-validation.cpp) [Python](./Python/utf-8-validation.py) | _O(n)_ | _O(1)_ | Medium | |
 0191 |[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [C++](./C++/number-of-1-bits.cpp) [Python](./Python/number-of-1-bits.py) | _O(1)_ | _O(1)_ | Easy ||
+**0729** | [My Calendar I](https://leetcode.com/problems/my-calendar-i/) | [C++](./C++/my-calendar-i.cpp) [Python](./Python/my-calendar-i.py) | _O(n*n)_ | _O(n)_ | Medium ||
