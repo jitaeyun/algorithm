@@ -132,3 +132,4 @@
 **0239**| [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)| [C++](./C++/sliding-window-maximum.cpp) [Python](./Python/sliding-window-maximum.py) | _O(n)_  | _O(k)_ | Hard  ||
 **1345**|[Jump Game IV](https://leetcode.com/problems/jump-game-iv/)| [C++](./C++/jump-game-iv.cpp) [Python](./Python/jump-game-iv.py)| _O(n)_ | _O(n)_ | Hard | | |
 **1340** | [Jump Game V](https://leetcode.com/problems/jump-game-v/) | [C++](./C++/jump-game-v.cpp) [Python](./Python/jump-game-v.py) | _O(n^2)_ | _O(n)_ | Hard | |
+**0076**| [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [C++](./C++/minimum-window-substring.cpp) [Python](./Python/minimum-window-substring.py) | _O(n)_ | _O(k)_ | Hard ||
