@@ -135,3 +135,4 @@
 **0076**| [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [C++](./C++/minimum-window-substring.cpp) [Python](./Python/minimum-window-substring.py) | _O(n)_ | _O(k)_ | Hard ||
 **1690** | [Stone Game VII](https://leetcode.com/problems/stone-game-vii/) | [C++](./C++/stone-game-vii.cpp) [Python](./Python/stone-game-vii.py) | _O(n^2)_ | _O(n^2)_ | Medium |||
 **1140** | [Stone Game II](https://leetcode.com/problems/stone-game-ii/) | [C++](./C++/stone-game-ii.cpp) [Python](./Python/stone-game-ii.py) | _O(n^2)_ | _O(n^2)_ | Medium ||| | Medium ||
+**0871** | [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/) | [C++](./C++/minimum-number-of-refueling-stops.cpp) [Python](./Python/minimum-number-of-refueling-stops.py) | _O(nlogn)_ | _O(n)_ | Hard ||
