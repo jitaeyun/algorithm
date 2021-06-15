@@ -142,3 +142,4 @@
 **0406**| [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | [C++](./C++/queue-reconstruction-by-height.cpp) [Python](./Python/queue-reconstruction-by-height.py) | _O(n * logn)_ | _O(n)_ | Medium ||
 **0621** | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [C++](./C++/task-scheduler.cpp) [Python](./Python/task-scheduler.py) | _O(n)_ | _O(1)_ | Medium ||
 1710|[Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)| [C++](./C++/maximum-units-on-a-truck.cpp) [Python](./Python/maximum-units-on-a-truck.py)| _O(nlogn)_ | _O(1)_ | Easy | | |
+**0473**| [Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/) | [C++](./C++/matchsticks-to-square.cpp) [Python](./Python/matchsticks-to-square.py) | _O(n * s * 2^n)_  | _O(n * (2^n + s))_ | Medium ||
