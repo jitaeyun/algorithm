@@ -145,3 +145,4 @@
 **0473**| [Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/) | [C++](./C++/matchsticks-to-square.cpp) [Python](./Python/matchsticks-to-square.py) | _O(n * s * 2^n)_  | _O(n * (2^n + s))_ | Medium ||
 0134| [Gas Station](https://leetcode.com/problems/gas-station/)| [C++](./C++/gas-station.cpp) [Python](./Python/gas-station.py) | _O(n)_  | _O(1)_ | Medium ||
 0455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [C++](./C++/assign-cookies.cpp) [Python](./Python/assign-cookies.py) | _O(nlogn)_ | _O(1)_ | Easy ||
+0022| [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)| [C++](./C++/generate-parentheses.cpp) [Python](./Python/generate-parentheses.py)| _O(4^n / n^(3/2))_ | _O(n)_   | Medium ||
