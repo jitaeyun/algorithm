@@ -149,3 +149,4 @@
 0169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [C++](./C++/majority-element.cpp) [Python](./Python/majority-element.py) | _O(n*logn)_ | _O(1)_ | Easy ||
 **0241**| [Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/) | [C++](./C++/different-ways-to-add-parentheses.cpp) [Python](./Python/different-ways-to-add-parentheses.py) | _O(n * 4^n / n^(3/2))_ | _O(n * 4^n / n^(3/2))_ | Medium|| 
 **0795** | [Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/) | [C++](./C++/number-of-subarrays-with-bounded-maximum.cpp) [Python](./Python/number-of-subarrays-with-bounded-maximum.py) | _O(n)_ | _O(1)_ | Medium |
+0053| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[C++](./C++/maximum-subarray.cpp) [Python](./Python/maximum-subarray.py)| _O(n)_ | _O(1)_ | Easy ||
