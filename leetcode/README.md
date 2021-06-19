@@ -151,3 +151,4 @@
 **0795** | [Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/) | [C++](./C++/number-of-subarrays-with-bounded-maximum.cpp) [Python](./Python/number-of-subarrays-with-bounded-maximum.py) | _O(n)_ | _O(1)_ | Medium |
 0053| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[C++](./C++/maximum-subarray.cpp) [Python](./Python/maximum-subarray.py)| _O(n)_ | _O(1)_ | Easy ||
 **0307** | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | [C++](./C++/range-sum-query-mutable.cpp) [Python](./Python/range-sum-query-mutable.py) | ctor: _O(n)_, update: _O(logn)_, query:  _O(logn)_ | _O(n)_ | Medium |
+**0629** | [K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array/) | [C++](./C++/k-inverse-pairs-array.cpp) [Python](./Python/k-inverse-pairs-array.py) | _O(n * k)_ | _O(k)_ | Hard |||
