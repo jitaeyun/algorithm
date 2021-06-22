@@ -156,3 +156,4 @@
 0198| [House Robber](https://leetcode.com/problems/house-robber/)| [C++](./C++/house-robber.cpp) [Python](./Python/house-robber.py) | _O(n)_ | _O(1)_ | Medium ||
 **0778** | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | [C++](./C++/swim-in-rising-water.cpp) [Python](./Python/swim-in-rising-water.py) | _O(n^2)_ | _O(n^2)_ | Hard ||
 0118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)| [C++](./C++/pascals-triangle.cpp) [Python](./Python/pascals-triangle.py) | _O(n^2)_ | _O(1)_ | Easy || 
+0792 | [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) | [C++](./C++/number-of-matching-subsequences.cpp) [Python](./Python/number-of-matching-subsequences.py) | _O(logn * w)_ | _O(n)_ | Medium ||
