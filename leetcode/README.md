@@ -157,3 +157,4 @@
 **0778** | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | [C++](./C++/swim-in-rising-water.cpp) [Python](./Python/swim-in-rising-water.py) | _O(n^2)_ | _O(n^2)_ | Hard ||
 0118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)| [C++](./C++/pascals-triangle.cpp) [Python](./Python/pascals-triangle.py) | _O(n^2)_ | _O(1)_ | Easy || 
 0792 | [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) | [C++](./C++/number-of-matching-subsequences.cpp) [Python](./Python/number-of-matching-subsequences.py) | _O(logn * w)_ | _O(n)_ | Medium ||
+**0576** | [Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/) | [C++](./C++/out-of-boundary-paths.cpp) [Python](./Python/out-of-boundary-paths.py) | _O(N * m * n)_ | _O(N * m * n)_ | Medium |||
