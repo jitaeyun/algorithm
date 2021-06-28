@@ -161,3 +161,4 @@
 **0684** | [Redundant Connection](https://leetcode.com/problems/redundant-connection/) | [C++](./C++/redundant-connection.cpp) [Python](./Python/redundant-connection.py) | _O(n)_ | _O(n)_ | Medium ||
 **0315**|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)| [C++](./C++/count-of-smaller-numbers-after-self.cpp) [Python](./Python/count-of-smaller-numbers-after-self.py)| _O(nlogn)_ | _O(n)_ | Hard |
 **0135**| [Candy](https://leetcode.com/problems/candy/)| [C++](./C++/candy.cpp) [Python](./Python/candy.py) | _O(n)_ | _O(n)_ | Hard ||
+1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [C++](./C++/remove-all-adjacent-duplicates-in-string.cpp) [Python](./Python/remove-all-adjacent-duplicates-in-string.py) | _O(n)_ | _O(n)_ | Easy ||
