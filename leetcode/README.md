@@ -165,3 +165,4 @@
 **1004** | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | [C++](./C++/max-consecutive-ones-iii.cpp) [Python](./Python/max-consecutive-ones-iii.py) | _O(n)_ | _O(1)_ | Medium ||
 **0236** | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [C++](./C++/lowest-common-ancestor-of-a-binary-tree.cpp) [Python](./Python/lowest-common-ancestor-of-a-binary-tree.py) | _O(n)_ | _O(h)_ | Medium ||
 **0089**| [Gray Code](https://leetcode.com/problems/gray-code/) | [C++](./C++/gray-code.cpp) [Python](./Python/gray-code.py)  | _O(2^n)_ | _O(2^n)_ | Medium ||
+**0658** | [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) | [C++](./C++/find-k-closest-elements.cpp) [Python](./Python/find-k-closest-elements.py) | _O(logn + k)_ | _O(1)_ | Medium | |
