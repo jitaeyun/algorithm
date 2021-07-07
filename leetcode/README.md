@@ -170,3 +170,4 @@
 **1220**| [Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/) | [C++](./C++/count-vowels-permutation.cpp) [Python](./Python/count-vowels-permutation.py) | _O(n)_ | _O(1)_ | Hard ||
 0566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | [C++](./C++/reshape-the-matrix.cpp) [Python](./Python/reshape-the-matrix.py) | _O(m * n)_ | _O(m * n)_ | Easy ||
 1338 | [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/) | [C++](./C++/reduce-array-size-to-the-half.cpp) [Python](./Python/reduce-array-size-to-the-half.py) | _O(n*logn)_ | _O(n)_ | Medium ||
+**0378** | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | [C++](./C++/kth-smallest-element-in-a-sorted-matrix.cpp) [Python](./Python/kth-smallest-element-in-a-sorted-matrix.py) | _O(k * log(min(n, m, k)))_ | _O(min(n, m, k))_ | Medium |
