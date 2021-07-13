@@ -176,3 +176,4 @@
 **0639** | [Decode Ways II](https://leetcode.com/problems/decode-ways-ii/) | [C++](./C++/decode-ways-ii.cpp) [Python](./Python/decode-ways-ii.py) | _O(n)_ | _O(1)_ | Hard |||
 **0295**| [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [C++](./C++/find-median-from-data-stream.cpp)  [Python](./Python/find-median-from-data-stream.py)  | _O(nlogn)_ | _O(n)_ | Hard ||
 0205| [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [C++](./C++/isomorphic-strings.cpp) [Python](./Python/isomorphic-strings.py) | _O(n)_ | _O(1)_ | Easy || 
+**0162**| [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [C++](./C++/find-peak-element.cpp) [Python](./Python/find-peak-element.py) | _O(logn)_ | _O(1)_ | Medium ||
