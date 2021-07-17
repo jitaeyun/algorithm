@@ -180,3 +180,4 @@
 0791| [Custom Sort String](https://leetcode.com/problems/custom-sort-string/) | [C++](./C++/custom-sort-string.cpp)  [Python](./Python/custom-sort-string.py) | _O(n)_ | _O(1)_ | Medium ||
 **0611**| [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/) | [C++](./C++/valid-triangle-number.cpp)  [Python](./Python/valid-triangle-number.py) | _O(n^2)_ | _O(1)_ | Medium ||
 **18**| [4Sum](https://leetcode.com/problems/4sum/) | [C++](./C++/4sum.cpp)  [Python](./Python/4sum.py) | _O(n^3)_ | _O(n^4)_ | Medium ||
+**0927** | [Three Equal Parts](https://leetcode.com/problems/three-equal-parts/) | [C++](./C++/three-equal-parts.cpp) [Python](./Python/three-equal-parts.py) | _O(n)_ | _O(1)_ | Hard ||
