@@ -185,3 +185,4 @@
 **0235** | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [C++](./C++/lowest-common-ancestor-of-a-binary-search-tree.cpp) [Python](./Python/lowest-common-ancestor-of-a-binary-search-tree.py) | _O(h)_ | _O(1)_ | Easy |
 0384| [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) | [C++](./C++/shuffle-an-array.cpp) [Python](./Python/shuffle-an-array.py)  | _O(n)_ |  _O(n)_ | Medium |
 **0838** | [Push Dominoes](https://leetcode.com/problems/push-dominoes/) | [C++](./C++/push-dominoes.cpp) [Python](./Python/push-dominoes.py) | _O(n)_ | _O(n)_ | Medium ||
+**0915** | [Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/) | [C++](./C++/partition-array-into-disjoint-intervals.cpp) [Python](./Python/partition-array-into-disjoint-intervals.py) | _O(n)_ | _O(n)_ | Medium  ||
