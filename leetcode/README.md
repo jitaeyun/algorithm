@@ -188,3 +188,4 @@
 **0915** | [Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/) | [C++](./C++/partition-array-into-disjoint-intervals.cpp) [Python](./Python/partition-array-into-disjoint-intervals.py) | _O(n)_ | _O(n)_ | Medium  ||
 **0814** | [Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/) | [C++](./C++/binary-tree-pruning.cpp) [Python](./Python/binary-tree-pruning.py) | _O(n)_ | _O(n)_ | Medium ||
 **0126**| [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/) |[C++](./C++/word-ladder-ii.cpp) [Python](./Python/word-ladder-ii.py) | _O(n^2))_ | _O(n^2)_ | Hard ||
+**0600** | [Non-negative Integers without Consecutive Ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/) | [C++](./C++/non-negative-integers-without-consecutive-ones.cpp) [Python](./Python/non-negative-integers-without-consecutive-ones.py) | _O(1)_ | _O(1)_ | Hard ||
