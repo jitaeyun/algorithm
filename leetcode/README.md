@@ -190,3 +190,4 @@
 **0126**| [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/) |[C++](./C++/word-ladder-ii.cpp) [Python](./Python/word-ladder-ii.py) | _O(n^2))_ | _O(n^2)_ | Hard ||
 **0600** | [Non-negative Integers without Consecutive Ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/) | [C++](./C++/non-negative-integers-without-consecutive-ones.cpp) [Python](./Python/non-negative-integers-without-consecutive-ones.py) | _O(1)_ | _O(1)_ | Hard ||
 0016 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [C++](./C++/3sum-closest.cpp) [Python](./Python/3sum-closest.py) | _O(n^2)_ | _O(1)_ | Medium ||
+**0932** | [Beautiful Array](https://leetcode.com/problems/beautiful-array/) | [C++](./C++/beautiful-array.cpp) [Python](./Python/beautiful-array.py) | _O(n)_ | _O(n)_ | Medium ||
