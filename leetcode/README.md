@@ -193,3 +193,4 @@
 **0932** | [Beautiful Array](https://leetcode.com/problems/beautiful-array/) | [C++](./C++/beautiful-array.cpp) [Python](./Python/beautiful-array.py) | _O(n)_ | _O(n)_ | Medium ||
 **0542**| [01 Matrix](https://leetcode.com/problems/01-matrix/)| [C++](./C++/01-matrix.cpp) [Python](./Python/01-matrix.py) | _O(m * n)_ | _O(1)_ | Medium ||
 0677 | [Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/) | [C++](./C++/map-sum-pairs.cpp) [Python](./Python/map-sum-pairs.py) | _O(n)_ | _O(t)_ | Medium ||
+**0827**| [Making A Large Island](https://leetcode.com/problems/making-a-large-island/) | [C++](./C++/making-a-large-island.cpp) [Python](./Python/making-a-large-island.py) | _O(n^2)_ | _O(n^2)_  | Hard ||
