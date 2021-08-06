@@ -196,4 +196,5 @@
 **0827**| [Making A Large Island](https://leetcode.com/problems/making-a-large-island/) | [C++](./C++/making-a-large-island.cpp) [Python](./Python/making-a-large-island.py) | _O(n^2)_ | _O(n^2)_  | Hard ||
 **0090**| [Subsets II](https://leetcode.com/problems/subsets-ii/)    | [C++](./C++/subsets-ii.cpp) [Python](./Python/subsets-ii.py) | _O(2^n)_ | _O(2^n)_ | Medium ||
 0113| [Path Sum II](https://leetcode.com/problems/path-sum-ii/)   | [C++](./C++/path-sum-ii.cpp) [Python](./Python/path-sum-ii.py) | _O(n)_  | _O(h)_ | Medium ||
-**0877** | [Stone Game](https://leetcode.com/problems/stone-game/) | [C++](./C++/stone-game.cpp) [Python](./Python/stone-game.py) | _O(n^2)_ | _O(n^2)_ | Medium | variant of [Predict the Winner](https://leetcode.com/problems/predict-the-winner/) | |
+**0877** | [Stone Game](https://leetcode.com/problems/stone-game/) | [C++](./C++/stone-game.cpp) [Python](./Python/stone-game.py) | _O(n^2)_ | _O(n^2)_ | Medium ||
+0429 | [N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) | [C++](./C++/n-ary-tree-level-order-traversal.cpp) [Python](./Python/n-ary-tree-level-order-traversal.py) | _O(n)_ | _O(n)_ | Medium ||
