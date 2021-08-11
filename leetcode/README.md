@@ -202,3 +202,4 @@
 **1632** | [Rank Transform of a Matrix](https://leetcode.com/problems/rank-transform-of-a-matrix/) | [C++](./C++/rank-transform-of-a-matrix.cpp) [Python](./Python/rank-transform-of-a-matrix.py) | _O(m * n * log(m * n))_ | _O(m * n)_ | Hard ||
 0415| [Add Strings](https://leetcode.com/problems/add-strings/) | [C++](./C++/add-strings.cpp)  [Python](./Python/add-strings.py) | _O(n)_ | _O(1)_ | Easy ||
 0926| [Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/) | [C++](./C++/flip-string-to-monotone-increasing.cpp) [Python](./Python/flip-string-to-monotone-increasing.py) | _O(n)_ | _O(1)_ | Medium ||
+0954 | [Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/) | [C++](./C++/array-of-doubled-pairs.cpp) [Python](./Python/array-of-doubled-pairs.py) | _O(nlogn)_ | _O(n)_ | Medium ||
