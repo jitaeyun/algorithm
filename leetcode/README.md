@@ -205,3 +205,4 @@
 **0073** | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [C++](./C++/set-matrix-zeroes.cpp) [Python](./Python/set-matrix-zeroes.py) | _O(m * n)_ | _O(1)_ | Medium ||
 **0546** | [Remove Boxes](https://leetcode.com/problems/remove-boxes/) | [C++](./C++/remove-boxes.cpp) [Python](./Python/remove-boxes.py) | _O(n^3)_ ~ _O(n^4)_ | _O(n^3)_ | Hard ||
 0303| [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)| [C++](./C++/range-sum-query-immutable.cpp) [Python](./Python/range-sum-query-immutable.py) | ctor: _O(n)_, lookup: _O(1)_ | _O(n)_ | Easy ||
+1448 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)| [C++](./C++/count-good-nodes-in-binary-tree.cpp) [Python](./Python/count-good-nodes-in-binary-tree.py) | _O(n)_ | _O(h)_ | Medium ||
