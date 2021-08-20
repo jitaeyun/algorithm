@@ -208,3 +208,4 @@
 1448 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)| [C++](./C++/count-good-nodes-in-binary-tree.cpp) [Python](./Python/count-good-nodes-in-binary-tree.py) | _O(n)_ | _O(h)_ | Medium ||
 **0091**| [Decode Ways](https://leetcode.com/problems/decode-ways/)   | [C++](./C++/decode-ways.cpp) [Python](./Python/decode-ways.py)| _O(n)_ | _O(1)_  | Medium ||
 **1339** |[Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/)| [C++](./C++/maximum-product-of-splitted-binary-tree.cpp)  [Python](./Python/maximum-product-of-splitted-binary-tree.py) | _O(n)_ | _O(h)_ | Medium ||
+0036| [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [C++](./C++/valid-sudoku.cpp) [Python](./Python/valid-sudoku.py) | _O(9^2)_ | _O(9)_  | Medium ||
