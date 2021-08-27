@@ -214,5 +214,6 @@
 0653 |[Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)| [C++](./C++/two-sum-iv-input-is-a-bst.cpp) [Python](./Python/two-sum-iv-input-is-a-bst.py)| _O(n)_ | _O(h)_ | Easy | |
 0537 | [Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/) | [C++](./C++/complex-number-multiplication.cpp) [Python](./Python/complex-number-multiplication.py) | _O(1)_ | _O(1)_ | Medium ||
 **0633**| [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) | [C++](./C++/sum-of-square-numbers.cpp) [Python](./Python/sum-of-square-numbers.py) | _O(sqrt(c) * logc)_ | _O(1)_ | Medium ||
-**0331**| [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/) | [C++](./C++/verify-preorder-serialization-of-a-binary-tree.cpp) [Python](./Python/verify-preorder-serialization-of-a-binary-tree.py) | _O(n)_| _O(n)_| Medium |||
+**0331**| [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/) | [C++](./C++/verify-preorder-serialization-of-a-binary-tree.cpp) [Python](./Python/verify-preorder-serialization-of-a-binary-tree.py) | _O(n)_| _O(n)_| Medium ||
+**0522**| [Longest Uncommon Subsequence II](https://leetcode.com/problems/longest-uncommon-subsequence-ii/) | [C++](./C++/longest-uncommon-subsequence-ii.cpp)  [Python](./Python/longest-uncommon-subsequence-ii.py) | _O(l * n^2)_ | _O(1)_ | Medium ||
 
