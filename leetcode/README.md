@@ -218,3 +218,4 @@
 **0522**| [Longest Uncommon Subsequence II](https://leetcode.com/problems/longest-uncommon-subsequence-ii/) | [C++](./C++/longest-uncommon-subsequence-ii.cpp)  [Python](./Python/longest-uncommon-subsequence-ii.py) | _O(l * n^2)_ | _O(1)_ | Medium ||
 **1235** | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | [C++](./C++/maximum-profit-in-job-scheduling.cpp) [Python](./Python/maximum-profit-in-job-scheduling.py) | _O(nlogn)_ | _O(n)_ | Hard ||
 **0330**| [Patching Array](https://leetcode.com/problems/patching-array/) | [C++](./C++/patching-array.cpp) [Python](./Python/patching-array.py) | _O(s + logn)_ | _O(1)_ | Hard ||
+0598 | [Range Addition II](https://leetcode.com/problems/range-addition-ii/) | [C++](./C++/range-addition-ii.cpp) [Python](./Python/range-addition-ii.py) | _O(n)_ | _O(1)_ | Easy ||
