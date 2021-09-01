@@ -220,3 +220,4 @@
 **0330**| [Patching Array](https://leetcode.com/problems/patching-array/) | [C++](./C++/patching-array.cpp) [Python](./Python/patching-array.py) | _O(s + logn)_ | _O(1)_ | Hard ||
 0598 | [Range Addition II](https://leetcode.com/problems/range-addition-ii/) | [C++](./C++/range-addition-ii.cpp) [Python](./Python/range-addition-ii.py) | _O(n)_ | _O(1)_ | Easy ||
 **0153**| [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [C++](./C++/find-minimum-in-rotated-sorted-array.cpp) [Python](./Python/find-minimum-in-rotated-sorted-array.py) | _O(logn)_   | _O(1)_  | Medium ||
+**0565** | [Array Nesting](https://leetcode.com/problems/array-nesting/) | [C++](./C++/array-nesting.cpp) [Python](./Python/array-nesting.py) | _O(n)_ | _O(1)_ | Medium ||
