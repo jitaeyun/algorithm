@@ -223,3 +223,4 @@
 **0565** | [Array Nesting](https://leetcode.com/problems/array-nesting/) | [C++](./C++/array-nesting.cpp) [Python](./Python/array-nesting.py) | _O(n)_ | _O(1)_ | Medium ||
 **0095**| [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | [C++](./C++/unique-binary-search-trees-ii.cpp) [Python](./Python/unique-binary-search-trees-ii.py) | _O(4^n / n^(3/2)_ | _O(4^n / n^(3/2)_ | Medium ||
 **0587** | [Erect the Fence](https://leetcode.com/problems/erect-the-fence/)  | [C++](./C++/erect-the-fence.cpp) [Python](./Python/erect-the-fence.py) | _O(nlogn)_| _O(n)_| Hard ||
+**0834**| [Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/) | [C++](./C++/sum-of-distances-in-tree.cpp) [Python](./Python/sum-of-distances-in-tree.py) | _O(n)_ | _O(n)_ | Hard ||
