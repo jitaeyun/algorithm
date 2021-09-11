@@ -229,3 +229,4 @@
 **0848** | [Shifting Letters](https://leetcode.com/problems/shifting-letters/) | [C++](./C++/shifting-letters.cpp) [Python](./Python/shifting-letters.py) | _O(n)_ | _O(1)_ | Medium ||
 **0764** | [Largest Plus Sign](https://leetcode.com/problems/largest-plus-sign/) | [C++](./C++/largest-plus-sign.cpp) [Python](./Python/largest-plus-sign.py) | _O(n^2)_ | _O(n^2)_ | Medium ||
 **0446** | [Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | [C++](./C++/arithmetic-slices-ii-subsequence.cpp) [Python](./Python/arithmetic-slices-ii-subsequence.py) | _O(n^2)_ | _O(n * d)_ | Hard ||
+**0224** | [Basic Calculator](https://leetcode.com/problems/basic-calculator/) | [C++](./C++/basic-calculator.cpp) [Python](./Python/basic-calculator.py) | _O(n)_| _O(n)_| Hard || 
