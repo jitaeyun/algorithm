@@ -239,3 +239,4 @@
 **0282** | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators/) | [C++](./C++/expression-add-operators.cpp)  [Python](./Python/expression-add-operators.py)  | _O(4^n)_ | _O(4^n)_ | Hard ||
 **0115** | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)|[C++](./C++/distinct-subsequences.cpp) [Python](./Python/distinct-subsequences.py)| _O(n^2)_ | _O(n)_ | Hard ||
 1275 | [Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/) | [C++](./C++/find-winner-on-a-tic-tac-toe-game.cpp) [Python](./Python/find-winner-on-a-tic-tac-toe-game.py) | _O(n)_ | _O(1)_ | Easy || 
+0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [C++](./C++/max-consecutive-ones.cpp) [Python](./Python/max-consecutive-ones.py) | _O(n)_ | _O(1)_ | Easy ||
