@@ -15,7 +15,7 @@ public:
         vector<unsigned int> v,v_lens, dp, dp_lens;
         for(string &s : arr) conversion(s,v, v_lens);
         for(int i=0; i<v.size(); ++i){
-            for(int j=0; j<dp.size(); ++j){
+            for(int j=(int)dp.size()-1; j>=0; --j){
                 if((v[i]&dp[j])!=0) continue;
                 dp.push_back(v[i]|dp[j]);
                 dp_lens.push_back(v_lens[i]+dp_lens[j]);
