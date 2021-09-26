@@ -244,3 +244,4 @@
 1328 | [Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/) | [C++](./C++/break-a-palindrome.cpp) [Python](./Python/break-a-palindrome.py) | _O(n)_ | _O(1)_ | Medium ||
 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)| [C++](./C++/n-th-tribonacci-number.cpp) [Python](./Python/n-th-tribonacci-number.py) | _O(logn)_ | _O(1)_ | Easy ||
 **1293** | [Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/)| [C++](./C++/shortest-path-in-a-grid-with-obstacles-elimination.cpp) [Python](./Python/shortest-path-in-a-grid-with-obstacles-elimination.py)| _O(m * n * k)_ | _O(m * n)_ | Hard ||
+**0782** | [Transform to Chessboard](https://leetcode.com/problems/transform-to-chessboard/) | [C++](./C++/transform-to-chessboard.cpp) [Python](./Python/transform-to-chessboard.py) | _O(n^2)_ | _O(1)_ | Hard || HELL
