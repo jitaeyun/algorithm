@@ -246,3 +246,4 @@
 **1293** | [Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/)| [C++](./C++/shortest-path-in-a-grid-with-obstacles-elimination.cpp) [Python](./Python/shortest-path-in-a-grid-with-obstacles-elimination.py)| _O(m * n * k)_ | _O(m * n)_ | Hard ||
 **0782** | [Transform to Chessboard](https://leetcode.com/problems/transform-to-chessboard/) | [C++](./C++/transform-to-chessboard.cpp) [Python](./Python/transform-to-chessboard.py) | _O(n^2)_ | _O(1)_ | Hard || HELL
 0929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | [C++](./C++/unique-email-addresses.cpp) [Python](./Python/unique-email-addresses.py) | _O(n * l)_ | _O(n * l)_ | Easy ||
+0922 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | [C++](./C++/sort-array-by-parity-ii.cpp) [Python](./Python/sort-array-by-parity-ii.py) | _O(n)_ | _O(1)_ | Easy ||
