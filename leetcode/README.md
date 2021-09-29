@@ -247,3 +247,4 @@
 **0782** | [Transform to Chessboard](https://leetcode.com/problems/transform-to-chessboard/) | [C++](./C++/transform-to-chessboard.cpp) [Python](./Python/transform-to-chessboard.py) | _O(n^2)_ | _O(1)_ | Hard || HELL
 0929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | [C++](./C++/unique-email-addresses.cpp) [Python](./Python/unique-email-addresses.py) | _O(n * l)_ | _O(n * l)_ | Easy ||
 0922 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | [C++](./C++/sort-array-by-parity-ii.cpp) [Python](./Python/sort-array-by-parity-ii.py) | _O(n)_ | _O(1)_ | Easy ||
+**0725** | [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/) | [C++](./C++/split-linked-list-in-parts.cpp) [Python](./Python/split-linked-list-in-parts.py) | _O(n + k)_ | _O(1)_ | Medium ||
