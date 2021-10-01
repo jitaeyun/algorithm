@@ -249,3 +249,4 @@
 0922 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | [C++](./C++/sort-array-by-parity-ii.cpp) [Python](./Python/sort-array-by-parity-ii.py) | _O(n)_ | _O(1)_ | Easy ||
 **0725** | [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/) | [C++](./C++/split-linked-list-in-parts.cpp) [Python](./Python/split-linked-list-in-parts.py) | _O(n + k)_ | _O(1)_ | Medium ||
 **0698** | [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/) | [C++](./C++/partition-to-k-equal-sum-subsets.cpp) [Python](./Python/partition-to-k-equal-sum-subsets.py) | _O(n * 2^n)_ | _O(2^n)_ | Medium || DFS, DP, Memoization
+**1143** | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [C++](./C++/longest-common-subsequence.cpp) [Python](./Python/longest-common-subsequence.py) | _O(m * n)_ | _O(min(m, n))_ | Medium ||
