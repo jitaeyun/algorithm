@@ -251,3 +251,4 @@
 **0698** | [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/) | [C++](./C++/partition-to-k-equal-sum-subsets.cpp) [Python](./Python/partition-to-k-equal-sum-subsets.py) | _O(n * 2^n)_ | _O(2^n)_ | Medium || DFS, DP, Memoization
 **1143** | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [C++](./C++/longest-common-subsequence.cpp) [Python](./Python/longest-common-subsequence.py) | _O(m * n)_ | _O(min(m, n))_ | Medium ||
 **0174** | [Dungeon Game](https://leetcode.com/problems/dungeon-game/)  | [C++](./C++/dungeon-game.cpp) [Python](./Python/dungeon-game.py)| _O(m * n)_ | _O(m * n)_ | Hard ||
+0055 | [Jump Game](https://leetcode.com/problems/jump-game/) | [C++](./C++/jump-game.cpp) [Python](./Python/jump-game.py)  | _O(n)_ | _O(1)_ | Medium ||
