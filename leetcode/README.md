@@ -253,3 +253,4 @@
 **0174** | [Dungeon Game](https://leetcode.com/problems/dungeon-game/)  | [C++](./C++/dungeon-game.cpp) [Python](./Python/dungeon-game.py)| _O(m * n)_ | _O(m * n)_ | Hard ||
 0055 | [Jump Game](https://leetcode.com/problems/jump-game/) | [C++](./C++/jump-game.cpp) [Python](./Python/jump-game.py)  | _O(n)_ | _O(1)_ | Medium ||
 0463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [C++](./C++/island-perimeter.cpp) [Python](./Python/island-perimeter.py) | _O(m * n)_ | _O(1)_ | Easy ||
+**0442** | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [C++](./C++/find-all-duplicates-in-an-array.cpp) [Python](./Python/find-all-duplicates-in-an-array.py) | _O(n)_ | _O(1)_ | Medium ||
