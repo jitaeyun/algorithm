@@ -255,3 +255,4 @@
 0463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [C++](./C++/island-perimeter.cpp) [Python](./Python/island-perimeter.py) | _O(m * n)_ | _O(1)_ | Easy ||
 **0442** | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [C++](./C++/find-all-duplicates-in-an-array.cpp) [Python](./Python/find-all-duplicates-in-an-array.py) | _O(n)_ | _O(1)_ | Medium ||
 **0079** | [Word Search](https://leetcode.com/problems/word-search/) | [C++](./C++/word-search.cpp) [Python](./Python/word-search.py) | _O(m*n*k)_ | _O(1)_ | Medium ||
+**0212** | [Word Search II](https://leetcode.com/problems/word-search-ii/) | [C++](./C++/word-search-ii.cpp) [Python](./Python/word-search-ii.py) | _O(m * n * 4^h)_ | _O(t)_ | Hard | 
