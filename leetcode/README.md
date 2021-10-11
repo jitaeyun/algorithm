@@ -257,3 +257,4 @@
 **0079** | [Word Search](https://leetcode.com/problems/word-search/) | [C++](./C++/word-search.cpp) [Python](./Python/word-search.py) | _O(m*n*k)_ | _O(1)_ | Medium ||
 **0212** | [Word Search II](https://leetcode.com/problems/word-search-ii/) | [C++](./C++/word-search-ii.cpp) [Python](./Python/word-search-ii.py) | _O(m * n * 4^h)_ | _O(t)_ | Hard |
 0201 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [C++](./C++/bitwise-and-of-numbers-range.cpp) [Python](./Python/bitwise-and-of-numbers-range.py) | _O(1)_ | _O(1)_ | Medium ||
+0543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [C++](./C++/diameter-of-binary-tree.cpp) [Python](./Python/diameter-of-binary-tree.py) | _O(n)_ | _O(h)_ | Easy || 
