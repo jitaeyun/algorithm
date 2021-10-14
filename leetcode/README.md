@@ -260,3 +260,4 @@
 0543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [C++](./C++/diameter-of-binary-tree.cpp) [Python](./Python/diameter-of-binary-tree.py) | _O(n)_ | _O(h)_ | Easy || 
 0374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)| [C++](./C++/guess-number-higher-or-lower.cpp) [Python](./Python/guess-number-higher-or-lower.py) | _O(logn)_ | _O(1)_ | Easy ||
 **1008** | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)| [C++](./C++/construct-binary-search-tree-from-preorder-traversal.cpp) [Python](./Python/construct-binary-search-tree-from-preorder-traversal.py)| _O(n)_ | _O(h)_ | Medium |||
+0279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/)| [C++](./C++/perfect-squares.cpp) [Python](./Python/perfect-squares.py) | _O(n * sqrt(n))_ | _O(n)_ | Medium ||
