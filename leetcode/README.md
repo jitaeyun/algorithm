@@ -269,3 +269,4 @@
 0151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [C++](./C++/reverse-words-in-a-string.cpp)  [Python](./Python/reverse-words-in-a-string.py) | _O(n)_ | _O(n)_ | Medium ||
 **0380** | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [C++](./C++/insert-delete-getrandom-o1.cpp) [Python](./Python/insert-delete-getrandom-o1.py) | _O(1)_ | _O(n)_| Medium ||
 **0451** | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | [C++](./C++/sort-characters-by-frequency.cpp) [Python](./Python/sort-characters-by-frequency.py) | _O(n)_ | _O(n)_ | Medium ||
+**0154** | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [C++](./C++/find-minimum-in-rotated-sorted-array-ii.cpp) [Python](./Python/find-minimum-in-rotated-sorted-array-ii.py) | _O(logn)_ ~ _O(n)_ | _O(1)_ | Hard ||
