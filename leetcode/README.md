@@ -271,4 +271,4 @@
 **0451** | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | [C++](./C++/sort-characters-by-frequency.cpp) [Python](./Python/sort-characters-by-frequency.py) | _O(n)_ | _O(n)_ | Medium ||
 **0154** | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [C++](./C++/find-minimum-in-rotated-sorted-array-ii.cpp) [Python](./Python/find-minimum-in-rotated-sorted-array-ii.py) | _O(logn)_ ~ _O(n)_ | _O(1)_ | Hard ||
 **0222** | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | [C++](./C++/count-complete-tree-nodes.cpp) [Python](./Python/count-complete-tree-nodes.py) | _O((logn)^2)_ | _O(1)_ |  Medium ||
-**0155** | [Min Stack](https://leetcode.com/problems/min-stack/) | [C++](./C++/min-stack.cpp) [Python](./Python/min-stack.py)  | _O(n)_ | _O(1)_ | Easy ||
+**0155** | [Min Stack](https://leetcode.com/problems/min-stack/) | [C++](./C++/min-stack.cpp) [Python](./Python/min-stack.py)  | _O(n)_ | _O(n)_ | Easy ||
