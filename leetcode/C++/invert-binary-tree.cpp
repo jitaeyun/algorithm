@@ -25,3 +25,23 @@ public:
         return root;
     }
 };
+
+
+/*
+class Solution {
+public:
+    TreeNode* invertTree(TreeNode* root) {
+        TreeNode* cur = nullptr, *t = nullptr;
+        queue<TreeNode*> q;
+        q.push(root);
+        while(!q.empty()){
+            cur=q.front(); q.pop();
+            if(cur==nullptr) break;
+            t=cur->left; cur->left=cur->right; cur->right=t;
+            if(cur->left) q.push(cur->left);
+            if(cur->right) q.push(cur->right);
+        }
+        return root;
+    }
+};
+*/

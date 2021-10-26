@@ -14,3 +14,22 @@ class Solution:
             _dfs(n.right)
         _dfs(root)
         return root
+
+
+'''
+class Solution:
+    def invertTree(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
+        cur, dq = None, collections.deque()
+        if not root:
+            return root
+        dq.append(root)
+        while dq:
+            cur = dq.popleft()
+            cur.left, cur.right = cur.right, cur.left
+            if cur.left:
+                dq.append(cur.left)
+            if cur.right:
+                dq.append(cur.right)
+        return root
+            
+'''
