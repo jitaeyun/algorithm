@@ -23,3 +23,35 @@ class Solution:
                     l+=1
                     r-=1
         return sol
+'''
+class Solution:
+    def threeSum(self, nums: List[int]) -> List[List[int]]:
+        sol, v , us, s, t = list(), list(), set(), None, 0
+        if not nums:
+            return sol
+        nums.sort()
+        v.append(nums[0])
+        same=1
+        for i in range(1, len(nums)):
+            if nums[i]==nums[i-1]:
+                same+=1
+            else: 
+                same = 1
+            if same<4:
+                v.append(nums[i])
+        for i in range(len(v)):
+            j, k = i+1, len(v)-1
+            while j<k:
+                t=v[i]+v[j]+v[k]
+                if t == 0:
+                    s = '{}.{}.{}'.format(v[i],v[j],v[k])
+                    if s not in us:
+                        us.add(s)
+                        sol.append([v[i], v[j], v[k]])
+                    j+=1
+                elif t>0:
+                    k-=1
+                else:
+                    j+=1
+        return sol
+'''
