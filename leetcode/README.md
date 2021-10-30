@@ -273,3 +273,4 @@
 **0222** | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | [C++](./C++/count-complete-tree-nodes.cpp) [Python](./Python/count-complete-tree-nodes.py) | _O((logn)^2)_ | _O(1)_ |  Medium ||
 **0155** | [Min Stack](https://leetcode.com/problems/min-stack/) | [C++](./C++/min-stack.cpp) [Python](./Python/min-stack.py)  | _O(n)_ | _O(n)_ | Easy ||
 0994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)| [C++](./C++/rotting-oranges.cpp) [Python](./Python/rotting-oranges.py)| _O(m * n)_ | _O(m * n)_ | Medium ||
+**1044** | [Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/) | [C++](./C++/longest-duplicate-substring.cpp) [Python](./Python/longest-duplicate-substring.py) | _O(nlogn)_ | _O(n)_ | Hard ||
