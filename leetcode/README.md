@@ -281,3 +281,4 @@
 0404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [C++](./C++/sum-of-left-leaves.cpp) [Python](./Python/sum-of-left-leaves.py) | _O(n)_ | _O(h)_ | Easy ||
 0441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | [C++](./C++/arranging-coins.cpp) [Python](./Python/arranging-coins.py) | _O(nlogn)_ | _O(1)_ | Easy ||
 **0260** | [Single Number III](https://leetcode.com/problems/single-number-iii/) | [C++](./C++/single-number-iii.cpp) [Python](./Python/single-number-iii.py) | _O(n)_ | _O(1)_ | Medium ||
+0043 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [C++](./C++/multiply-strings.cpp) [Python](./Python/multiply-strings.py) | _O(m * n)_ | _O(m + n)_  | Medium         ||
