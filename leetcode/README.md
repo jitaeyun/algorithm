@@ -288,3 +288,4 @@
 0203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)| [C++](./C++/remove-linked-list-elements.cpp) [Python](./Python/remove-linked-list-elements.py) | _O(n)_ | _O(1)_ | Easy || 
 1286 | [Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/) | [C++](./C++/iterator-for-combination.cpp) [Python](./Python/iterator-for-combination.py) | _O(k)_ | _O(k)_ | Medium ||
 **368** | [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | [C++](./C++/largest-divisible-subset.cpp) [Python](./Python/largest-divisible-subset.py) | _O(n^2)_ | _O(n)_ | Medium ||
+**0668** | [Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) | [C++](./C++/kth-smallest-number-in-multiplication-table.cpp) [Python](./Python/kth-smallest-number-in-multiplication-table.py) | _O(m * log(m * n))_ | _O(1)_ | Hard | |
