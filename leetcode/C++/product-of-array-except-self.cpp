@@ -7,3 +7,15 @@ public:
         return sol;
     }
 };
+
+/*
+class Solution {
+public:
+    vector<int> productExceptSelf(vector<int>& nums) {
+        vector<int> sol(nums.size(),1);
+        for(int i=(int)nums.size()-2; i>=0; --i) sol[i]=sol[i+1]*nums[i+1];
+        for(int i=1,t=1; i<nums.size(); ++i) {t*=nums[i-1]; sol[i]*=t;}
+        return sol;
+    }
+};
+*/
