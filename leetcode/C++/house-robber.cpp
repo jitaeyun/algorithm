@@ -10,3 +10,19 @@ public:
         return max(dp[nums.size()-1][0], dp[nums.size()-1][1]);
     }
 };
+
+
+/*
+class Solution {
+public:
+    int rob(vector<int>& nums) {
+        int no=0, t=0, rob = nums[0];
+        for(int i=1; i<nums.size(); ++i){
+            t = max(no, rob);
+            rob = max(no+nums[i], rob);
+            no = t;
+        }
+        return max(rob, no);
+    }
+};
+*/
