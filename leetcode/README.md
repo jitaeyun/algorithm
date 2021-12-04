@@ -301,3 +301,4 @@
 **0721** | [Accounts Merge](https://leetcode.com/problems/accounts-merge/) | [C++](./C++/accounts-merge.cpp) [Python](./Python/accounts-merge.py) | _O(nlogn)_ | _O(n)_| Medium ||
 **0085** | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)| [C++](./C++/maximal-rectangle.cpp)  [Python](./Python/maximal-rectangle.py)| _O(m * n)_ | _O(n)_ | Hard ||
 **0152** | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[C++](./C++/maximum-product-subarray.cpp) [Python](./Python/maximum-product-subarray.py)| _O(n)_ | _O(1)_ | Medium ||
+1032 | [Stream of Characters](https://leetcode.com/problems/stream-of-characters/)| [C++](./C++/stream-of-characters.cpp) [Python](./Python/stream-of-characters.py) | ctor: _O(n)_ <br> query: _O(m)_ | _O(t)_ | Hard ||
