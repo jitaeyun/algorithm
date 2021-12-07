@@ -304,3 +304,4 @@
 1032 | [Stream of Characters](https://leetcode.com/problems/stream-of-characters/)| [C++](./C++/stream-of-characters.cpp) [Python](./Python/stream-of-characters.py) | ctor: _O(n)_ <br> query: _O(m)_ | _O(t)_ | Hard ||
 **0337** | [House Robber III](https://leetcode.com/problems/house-robber-iii/) | [C++](./C++/house-robber-iii.cpp) [Python](./Python/house-robber-iii.py) | _O(n)_  | _O(h)_  | Medium ||
 1217 | [Play with Chips](https://leetcode.com/problems/play-with-chips/) | [C++](./C++/play-with-chips.cpp) [Python](./Python/play-with-chips.py) | _O(n)_ | _O(1)_ | Easy ||
+1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [C++](./C++/convert-binary-number-in-a-linked-list-to-integer.cpp) [Python](./Python/convert-binary-number-in-a-linked-list-to-integer.py) | _O(n)_ | _O(1)_ | Easy ||
