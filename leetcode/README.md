@@ -305,4 +305,5 @@
 **0337** | [House Robber III](https://leetcode.com/problems/house-robber-iii/) | [C++](./C++/house-robber-iii.cpp) [Python](./Python/house-robber-iii.py) | _O(n)_  | _O(h)_  | Medium ||
 1217 | [Play with Chips](https://leetcode.com/problems/play-with-chips/) | [C++](./C++/play-with-chips.cpp) [Python](./Python/play-with-chips.py) | _O(n)_ | _O(1)_ | Easy ||
 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [C++](./C++/convert-binary-number-in-a-linked-list-to-integer.cpp) [Python](./Python/convert-binary-number-in-a-linked-list-to-integer.py) | _O(n)_ | _O(1)_ | Easy ||
-0563 | [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)| [C++](./C++/binary-tree-tilt.cpp) [Python](./Python/binary-tree-tilt.py)| _O(n)_ | _O(n)_ | Easy | | |
+0563 | [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)| [C++](./C++/binary-tree-tilt.cpp) [Python](./Python/binary-tree-tilt.py)| _O(n)_ | _O(n)_ | Easy ||
+1306 | [Jump Game III](https://leetcode.com/problems/jump-game-iii/)| [C++](./C++/jump-game-iii.cpp) [Python](./Python/jump-game-iii.py)| _O(n)_ | _O(n)_ | Medium ||
