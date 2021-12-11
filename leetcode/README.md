@@ -308,3 +308,4 @@
 0563 | [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)| [C++](./C++/binary-tree-tilt.cpp) [Python](./Python/binary-tree-tilt.py)| _O(n)_ | _O(n)_ | Easy ||
 1306 | [Jump Game III](https://leetcode.com/problems/jump-game-iii/)| [C++](./C++/jump-game-iii.cpp) [Python](./Python/jump-game-iii.py)| _O(n)_ | _O(n)_ | Medium ||
 **0790** | [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/) | [C++](./C++/domino-and-tromino-tiling.cpp) [Python](./Python/domino-and-tromino-tiling.py) | _O(n)_ | _O(n)_ | Medium ||
+**0878** | [Nth Magical Number](https://leetcode.com/problems/nth-magical-number/) | [C++](./C++/nth-magical-number.cpp) [Python](./Python/nth-magical-number.py) | _O(logn)_ | _O(1)_ | Hard ||
