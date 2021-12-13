@@ -310,3 +310,4 @@
 **0790** | [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/) | [C++](./C++/domino-and-tromino-tiling.cpp) [Python](./Python/domino-and-tromino-tiling.py) | _O(n)_ | _O(n)_ | Medium ||
 **0878** | [Nth Magical Number](https://leetcode.com/problems/nth-magical-number/) | [C++](./C++/nth-magical-number.cpp) [Python](./Python/nth-magical-number.py) | _O(logn)_ | _O(1)_ | Hard ||
 **0416** | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [C++](./C++/partition-equal-subset-sum.cpp) [Python](./Python/partition-equal-subset-sum.py) | _O(n * s)_ | _O(n * s)_ | Medium ||
+1446 | [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)| [C++](./C++/consecutive-characters.cpp) [Python](./Python/consecutive-characters.py)| _O(n)_ | _O(1)_ | Easy |||
