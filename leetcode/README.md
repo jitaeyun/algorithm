@@ -311,3 +311,4 @@
 **0878** | [Nth Magical Number](https://leetcode.com/problems/nth-magical-number/) | [C++](./C++/nth-magical-number.cpp) [Python](./Python/nth-magical-number.py) | _O(logn)_ | _O(1)_ | Hard ||
 **0416** | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [C++](./C++/partition-equal-subset-sum.cpp) [Python](./Python/partition-equal-subset-sum.py) | _O(n * s)_ | _O(n * s)_ | Medium ||
 1446 | [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)| [C++](./C++/consecutive-characters.cpp) [Python](./Python/consecutive-characters.py)| _O(n)_ | _O(1)_ | Easy |||
+**0221** | [Maximal Square](https://leetcode.com/problems/maximal-square/)| [C++](./C++/maximal-square.cpp) [Python](./Python/maximal-square.py) | _O(n^2)_ | _O(n)_ | Medium | EPI
