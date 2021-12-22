@@ -316,3 +316,4 @@
 **0394** | [Decode String](https://leetcode.com/problems/decode-string/)| [C++](./C++/decode-string.cpp) [Python](./Python/decode-string.py) | _O(n)_ | _O(n)_ | Medium ||
 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | [C++](./C++/minimum-absolute-difference.cpp) [Python](./Python/minimum-absolute-difference.py) | _O(nlogn)_ | _O(n)_ | Easy ||
 **0231** | [Power of Two](https://leetcode.com/problems/power-of-two/) | [C++](./C++/power-of-two.cpp) [Python](./Python/power-of-two.py) | _O(1)_ | _O(1)_ | Easy |
+0143 | [Reorder List](https://leetcode.com/problems/reorder-list/)| [C++](./C++/reorder-list.cpp) [Python](./Python/reorder-list.py) | _O(n)_ |  _O(n)_ | Medium ||
