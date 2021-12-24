@@ -10,3 +10,18 @@ public:
         return sol;
     }
 };
+
+/*
+class Solution {
+public:
+    vector<vector<int>> merge(vector<vector<int>>& intervals) {
+        vector<vector<int>> sol;
+        sort(intervals.begin(),intervals.end());
+        for(vector<int> &v : intervals){
+            if(sol.empty() || sol.back()[1] < v[0]) sol.push_back(v);
+            else if(sol.back()[1]<v[1]) sol.back()[1]=v[1];
+        }
+        return sol;
+    }
+};
+*/
