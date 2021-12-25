@@ -318,3 +318,4 @@
 **0231** | [Power of Two](https://leetcode.com/problems/power-of-two/) | [C++](./C++/power-of-two.cpp) [Python](./Python/power-of-two.py) | _O(1)_ | _O(1)_ | Easy |
 0143 | [Reorder List](https://leetcode.com/problems/reorder-list/)| [C++](./C++/reorder-list.cpp) [Python](./Python/reorder-list.py) | _O(n)_ |  _O(n)_ | Medium ||
 0210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)| [C++](./C++/course-schedule-ii.cpp) [Python](./Python/course-schedule-ii.py) | _O(\|V\| + \|E\|)_ | _O(\|E\|)_ | Medium ||
+0227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | [C++](./C++/basic-calculator-ii.cpp) [Python](./Python/basic-calculator-ii.py) | _O(n)_| _O(n)_|
