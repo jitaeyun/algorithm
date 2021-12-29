@@ -321,3 +321,4 @@
 0227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | [C++](./C++/basic-calculator-ii.cpp) [Python](./Python/basic-calculator-ii.py) | _O(n)_| _O(n)_|
 0476 | [Number Complement](https://leetcode.com/problems/number-complement/) | [C++](./C++/number-complement.cpp) [Python](./Python/number-complement.py) | _O(1)_ | _O(1)_ | Easy ||
 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [C++](./C++/middle-of-the-linked-list.cpp) [Python](./Python/middle-of-the-linked-list.py) | _O(n)_ | _O(1)_ | Easy ||
+0116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)| [C++](./C++/populating-next-right-pointers-in-each-node.cpp) [Python](./Python/populating-next-right-pointers-in-each-node.py)| _O(n)_ | _O(1)_ | Medium ||
