@@ -334,3 +334,4 @@
 **1463** | [Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/)| [C++](./C++/cherry-pickup-ii.cpp) [Python](./Python/cherry-pickup-ii.py) | _O(m * n^2)_ | _O(m * n^2)_ | Hard ||
 1041 | [Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/) | [C++](./C++/robot-bounded-in-circle.cpp) [Python](./Python/robot-bounded-in-circle.py) | _O(n)_ | _O(1)_ | Medium ||
 0067 | [Add Binary](https://leetcode.com/problems/add-binary/)    | [C++](./C++/add-binary.cpp) [Python](./Python/add-binary.py) | _O(n)_  | _O(1)_ | Easy||
+1022 | [Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)| [C++](./C++/sum-of-root-to-leaf-binary-numbers.cpp) [Python](./Python/sum-of-root-to-leaf-binary-numbers.py)| _O(n)_ | _O(h)_ | Easy ||
