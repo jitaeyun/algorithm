@@ -336,3 +336,4 @@
 0067 | [Add Binary](https://leetcode.com/problems/add-binary/)    | [C++](./C++/add-binary.cpp) [Python](./Python/add-binary.py) | _O(n)_  | _O(1)_ | Easy||
 1022 | [Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)| [C++](./C++/sum-of-root-to-leaf-binary-numbers.cpp) [Python](./Python/sum-of-root-to-leaf-binary-numbers.py)| _O(n)_ | _O(h)_ | Easy ||
 **0701** | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [C++](./C++/insert-into-a-binary-search-tree.cpp) [Python](./Python/insert-into-a-binary-search-tree.py) | _O(h)_  | _O(1)_ | Medium  || Tree |
+**0452** | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [C++](./C++/minimum-number-of-arrows-to-burst-balloons.cpp) [Python](./Python/minimum-number-of-arrows-to-burst-balloons.py) | _O(nlogn)_ | _O(1)_ | Medium ||
