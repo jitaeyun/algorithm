@@ -130,7 +130,7 @@
 **0729** | [My Calendar I](https://leetcode.com/problems/my-calendar-i/) | [C++](./C++/my-calendar-i.cpp) [Python](./Python/my-calendar-i.py) | _O(n*n)_ | _O(n)_ | Medium ||
 **0731** | [My Calendar II](https://leetcode.com/problems/my-calendar-ii/) | [C++](./C++/my-calendar-ii.cpp) [Python](./Python/my-calendar-ii.py) | _O(n^2)_ | _O(n)_ | Medium ||
 **0239**| [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)| [C++](./C++/sliding-window-maximum.cpp) [Python](./Python/sliding-window-maximum.py) | _O(n)_  | _O(k)_ | Hard  ||
-**1345**|[Jump Game IV](https://leetcode.com/problems/jump-game-iv/)| [C++](./C++/jump-game-iv.cpp) [Python](./Python/jump-game-iv.py)| _O(n)_ | _O(n)_ | Hard | | |
+**1871** | [Jump Game VII](https://leetcode.com/problems/jump-game-vii/)|[C++](./C++/jump-game-vii.cpp) [Python](./Python/jump-game-vii.py)| _O(n)_     | _O(n)_ | Medium ||
 **1340** | [Jump Game V](https://leetcode.com/problems/jump-game-v/) | [C++](./C++/jump-game-v.cpp) [Python](./Python/jump-game-v.py) | _O(n^2)_ | _O(n)_ | Hard | |
 **0076**| [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [C++](./C++/minimum-window-substring.cpp) [Python](./Python/minimum-window-substring.py) | _O(n)_ | _O(k)_ | Hard ||
 **1690** | [Stone Game VII](https://leetcode.com/problems/stone-game-vii/) | [C++](./C++/stone-game-vii.cpp) [Python](./Python/stone-game-vii.py) | _O(n^2)_ | _O(n^2)_ | Medium |||
