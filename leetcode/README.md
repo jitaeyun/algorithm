@@ -341,3 +341,4 @@
 **1345** | [Jump Game IV](https://leetcode.com/problems/jump-game-iv/)| [C++](./C++/jump-game-iv.cpp) [Python](./Python/jump-game-iv.py)| _O(n)_ | _O(n)_ | Hard ||
 **0849** | [Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/) | [C++](./C++/maximize-distance-to-closest-person.cpp) [Python](./Python/maximize-distance-to-closest-person.py) | _O(n)_ | _O(1)_ | Medium ||
 0290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | [C++](./C++/word-pattern.cpp) [Python](./Python/word-pattern.py)  | _O(n)_ | _O(c)_ | Easy ||
+0605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [C++](./C++/can-place-flowers.cpp) [Python](./Python/can-place-flowers.py) | _O(n)_ | _O(1)_ | Easy  ||
