@@ -344,3 +344,4 @@
 0605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [C++](./C++/can-place-flowers.cpp) [Python](./Python/can-place-flowers.py) | _O(n)_ | _O(1)_ | Easy  ||
 **0142** | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)| [C++](./C++/linked-list-cycle-ii.cpp) [Python](./Python/linked-list-cycle-ii.py) | _O(n)_ | _O(1)_   | Medium ||
 **0875** | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [C++](./C++/koko-eating-bananas.cpp) [Python](./Python/koko-eating-bananas.py) | _O(nlogr)_ | _O(1)_ | Medium | |
+**1510** | [Stone Game IV](https://leetcode.com/problems/stone-game-iv/)| [C++](./C++/stone-game-iv.cpp) [Python](./Python/stone-game-iv.py) | _O(n * sqrt(n))_ | _O(n)_ | Hard ||
