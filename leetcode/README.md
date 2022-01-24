@@ -346,3 +346,4 @@
 **0875** | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [C++](./C++/koko-eating-bananas.cpp) [Python](./Python/koko-eating-bananas.py) | _O(nlogr)_ | _O(1)_ | Medium | |
 **1510** | [Stone Game IV](https://leetcode.com/problems/stone-game-iv/)| [C++](./C++/stone-game-iv.cpp) [Python](./Python/stone-game-iv.py) | _O(n * sqrt(n))_ | _O(n)_ | Hard ||
 1291 | [Sequential Digits](https://leetcode.com/problems/sequential-digits/)| [C++](./C++/sequential-digits.cpp) [Python](./Python/sequential-digits.py)| _O(1)_ | _O(1)_ | Medium ||
+0520 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | [C++](./C++/detect-capital.cpp)  [Python](./Python/detect-capital.py) | _O(l)_ | _O(1)_ | Easy  ||
