@@ -348,3 +348,4 @@
 1291 | [Sequential Digits](https://leetcode.com/problems/sequential-digits/)| [C++](./C++/sequential-digits.cpp) [Python](./Python/sequential-digits.py)| _O(1)_ | _O(1)_ | Medium ||
 0520 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | [C++](./C++/detect-capital.cpp)  [Python](./Python/detect-capital.py) | _O(l)_ | _O(1)_ | Easy  ||
 0941 | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | [C++](./C++/valid-mountain-array.cpp) [Python](./Python/valid-mountain-array.py) | _O(n)_ | _O(1)_ | Easy ||
+1305 | [All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)| [C++](./C++/all-elements-in-two-binary-search-trees.cpp)  [Python](./Python/all-elements-in-two-binary-search-trees.py) | _O(n)_ | _O(h)_ | Medium || Stack |
