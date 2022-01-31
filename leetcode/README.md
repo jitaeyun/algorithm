@@ -353,3 +353,4 @@
 **0211** | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | [C++](./C++/design-add-and-search-words-data-structure.cpp) [Python](./Python/design-add-and-search-words-data-structure.py) | _O(min(n, h))_ | _O(min(n, h))_ | Medium ||
 **0084** | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [C++](./C++/largest-rectangle-in-histogram.cpp) [Python](./Python/largest-rectangle-in-histogram.py) | _O(n)_ | _O(n)_ | Hard ||
 0189 | [Rotate Array](https://leetcode.com/problems/rotate-array/)   | [C++](./C++/rotate-array.cpp) [Python](./Python/rotate-array.py) | _O(n)_        | _O(n)_ | Medium ||
+1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [C++](./C++/richest-customer-wealth.cpp) [Python](./Python/richest-customer-wealth.py) | _O(m * n)_ | _O(1)_ | Easy ||
