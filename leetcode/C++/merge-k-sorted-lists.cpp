@@ -12,12 +12,16 @@ class Solution {
 public:
     ListNode* mergeKLists(vector<ListNode*>& lists) {
         ListNode *sol=new ListNode(),*cur=sol;
-        priority_queue<pair<int, ListNode*>> pq;
-        for(ListNode *n : lists) if(n) pq.push({-n->val,n});
+        priority_queue<pair<int, int>> pq;
+        int idx = 0;
+        for(int i=0; i<lists.size(); ++i) if(lists[i]) pq.push({-lists[i]->val,i});
         while(!pq.empty()){
-            cur->next=pq.top().second; pq.pop();
-            cur=cur->next;
-            if(cur->next) pq.push({-cur->next->val,cur->next});
+            idx = pq.top().second; pq.pop();
+            cur->next=lists[idx]; cur=cur->next;
+            if(lists[idx]->next) {
+                lists[idx]=lists[idx]->next;
+                pq.push({-lists[idx]->val,idx});
+            }
         }
         return sol->next;
     }
