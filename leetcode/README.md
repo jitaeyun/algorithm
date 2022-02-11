@@ -362,3 +362,4 @@
 **0258** | [Add Digits](https://leetcode.com/problems/add-digits/) | [C++](./C++/add-digits.cpp)  [Python](./Python/add-digits.py)  | _O(1)_ | _O(1)_ | Easy ||
 **0532** | [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) |[C++](./C++/k-diff-pairs-in-an-array.cpp) [Python](./Python/k-diff-pairs-in-an-array.py) | _O(n)_ | _O(n)_ | Medium ||
 **0560** | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) |[C++](./C++/subarray-sum-equals-k.cpp)  [Python](./Python/subarray-sum-equals-k.py) | _O(n)_ | _O(n)_ | Medium ||
+**0567** | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [C++](./C++/permutation-in-string.cpp)  [Python](./Python/permutation-in-string.py) | _O(n)_ | _O(1)_ | Medium ||
