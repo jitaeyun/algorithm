@@ -376,3 +376,4 @@
 0338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [C++](./C++/counting-bits.cpp) [Python](./Python/counting-bits.py) | _O(n)_ | _O(n)_ | Easy ||
 0392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/)| [C++](./C++/is-subsequence.cpp) [Python](./Python/is-subsequence.py)   | _O(n)_ | _O(1)_ | Easy ||
 0413 | [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | [C++](./C++/arithmetic-slices.cpp) [Python](./Python/arithmetic-slices.py) | _O(n)_ | _O(1)_ | Medium |||
+0799 | [Champagne Tower](https://leetcode.com/problems/champagne-tower/) | [C++](./C++/champagne-tower.cpp) [Python](./Python/champagne-tower.py) | _O(n^2)_ | _O(n^2)_ | Medium ||
