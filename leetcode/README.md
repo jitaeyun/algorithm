@@ -378,3 +378,4 @@
 0413 | [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | [C++](./C++/arithmetic-slices.cpp) [Python](./Python/arithmetic-slices.py) | _O(n)_ | _O(1)_ | Medium |||
 0799 | [Champagne Tower](https://leetcode.com/problems/champagne-tower/) | [C++](./C++/champagne-tower.cpp) [Python](./Python/champagne-tower.py) | _O(n^2)_ | _O(n^2)_ | Medium ||
 **0740** | [Delete and Earn](https://leetcode.com/problems/delete-and-earn/) | [C++](./C++/delete-and-earn.cpp) [Python](./Python/delete-and-earn.py) | _O(n^logn)_ | _O(1)_ | Medium ||
+1359 | [Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/)     | [C++](./C++/count-all-valid-pickup-and-delivery-options.cpp) [Python](./Python/count-all-valid-pickup-and-delivery-options.py)  | _O(n)_ | _O(1)_ | Hard ||
