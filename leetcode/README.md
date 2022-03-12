@@ -381,3 +381,4 @@
 1359 | [Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/)     | [C++](./C++/count-all-valid-pickup-and-delivery-options.cpp) [Python](./Python/count-all-valid-pickup-and-delivery-options.py)  | _O(n)_ | _O(1)_ | Hard ||
 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)| [C++](./C++/linked-list-cycle.cpp) [Python](./Python/linked-list-cycle.py) | _O(n)_ | _O(1)_  | Easy ||
 **0061** | [Rotate List](https://leetcode.com/problems/rotate-list/)| [C++](./C++/rotate-list.cpp) [Python](./Python/rotate-list.py) | _O(n)_ | _O(1)_ | Medium ||
+**0138** | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [C++](./C++/copy-list-with-random-pointer.cpp) [Python](./Python/copy-list-with-random-pointer.py) | _O(n)_ | _O(n)_  | Medium ||
