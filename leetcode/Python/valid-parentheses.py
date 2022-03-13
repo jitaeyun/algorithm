@@ -9,3 +9,19 @@ class Solution:
             else:
                 return False
         return not st
+
+
+'''
+class Solution:
+    def isValid(self, s: str) -> bool:
+        um, st = {'(': ')', '{': '}', '[':']'}, list()
+        for ch in s:
+            t = um.get(ch, None)
+            if t is not None:
+                st.append(t)
+            elif len(st)>0 and st[-1] == ch:
+                st.pop()
+            else:
+                return False
+        return len(st) == 0
+'''
