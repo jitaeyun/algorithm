@@ -386,3 +386,4 @@
 1249 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | [C++](./C++/minimum-remove-to-make-valid-parentheses.cpp) [Python](./Python/minimum-remove-to-make-valid-parentheses.py) | _O(n)_ | _O(n)_ | Medium || 
 0946 | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | [C++](./C++/validate-stack-sequences.cpp) [Python](./Python/validate-stack-sequences.py) | _O(n)_  | _O(n)_ | Medium ||
 **0856** | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | [C++](./C++/score-of-parentheses.cpp) [Python](./Python/score-of-parentheses.py) | _O(n)_  | _O(n)_ | Medium  ||
+**0895** | [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) | [C++](./C++/maximum-frequency-stack.cpp) [Python](./Python/maximum-frequency-stack.py) | _O(logn)_  | _O(n)_ | Hard || 
