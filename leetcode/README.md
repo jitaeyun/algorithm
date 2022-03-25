@@ -392,3 +392,4 @@
 **1663** | [Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/) | [C++](./C++/smallest-string-with-a-given-numeric-value.cpp) [Python](./Python/smallest-string-with-a-given-numeric-value.py) | _O(n)_ | _O(1)_ | Medium ||
 **0991** | [Broken Calculator](https://leetcode.com/problems/broken-calculator/) | [C++](./C++/broken-calculator.cpp) [Python](./Python/broken-calculator.py) | _O(n)_ | _O(1)_ | Medium ||
 **0881** | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | [C++](./C++/boats-to-save-people.cpp) [Python](./Python/boats-to-save-people.py) | _O(nlogn)_ | _O(n)_ | Medium ||
+**1029** | [Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/) | [C++](./C++/two-city-scheduling.cpp) [Python](./Python/two-city-scheduling.py) | _O(n^2)_ | _O(n^2)_ | Medium || 
