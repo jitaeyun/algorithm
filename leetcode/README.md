@@ -393,3 +393,4 @@
 **0991** | [Broken Calculator](https://leetcode.com/problems/broken-calculator/) | [C++](./C++/broken-calculator.cpp) [Python](./Python/broken-calculator.py) | _O(n)_ | _O(1)_ | Medium ||
 **0881** | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | [C++](./C++/boats-to-save-people.cpp) [Python](./Python/boats-to-save-people.py) | _O(nlogn)_ | _O(n)_ | Medium ||
 **1029** | [Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/) | [C++](./C++/two-city-scheduling.cpp) [Python](./Python/two-city-scheduling.py) | _O(n^2)_ | _O(n^2)_ | Medium || 
+1337 | [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) | [C++](./C++/the-k-weakest-rows-in-a-matrix.cpp) [Python](./Python/the-k-weakest-rows-in-a-matrix.py) | _O(m * n)_ | _O(m)_ | Easy ||
