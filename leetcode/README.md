@@ -394,3 +394,4 @@
 **0881** | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | [C++](./C++/boats-to-save-people.cpp) [Python](./Python/boats-to-save-people.py) | _O(nlogn)_ | _O(n)_ | Medium ||
 **1029** | [Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/) | [C++](./C++/two-city-scheduling.cpp) [Python](./Python/two-city-scheduling.py) | _O(n^2)_ | _O(n^2)_ | Medium || 
 1337 | [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) | [C++](./C++/the-k-weakest-rows-in-a-matrix.cpp) [Python](./Python/the-k-weakest-rows-in-a-matrix.py) | _O(m * n)_ | _O(m)_ | Easy ||
+0081 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [C++](./C++/search-in-rotated-sorted-array-ii.cpp) [Python](./Python/search-in-rotated-sorted-array-ii.py) | _O(logn)_ ~ _O(n)_ | _O(1)_ | Medium ||
