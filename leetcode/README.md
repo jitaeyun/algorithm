@@ -397,3 +397,4 @@
 0081 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [C++](./C++/search-in-rotated-sorted-array-ii.cpp) [Python](./Python/search-in-rotated-sorted-array-ii.py) | _O(logn)_ ~ _O(n)_ | _O(1)_ | Medium ||
 0287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)| [C++](./C++/find-the-duplicate-number.cpp) [Python](./Python/find-the-duplicate-number.py) | _O(n)_ | _O(n)_  | Medium  ||
 0074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [C++](./C++/search-a-2d-matrix.cpp) [Python](./Python/search-a-2d-matrix.py) | _O(logm + logn)_ | _O(1)_ | Medium  ||
+**0410** | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)| [C++](./C++/split-array-largest-sum.cpp) [Python](./Python/split-array-largest-sum.py)  | _O(nlogs)_ | _O(1)_ | Hard ||
