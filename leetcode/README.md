@@ -402,3 +402,4 @@
 **0031** | [Next Permutation](https://leetcode.com/problems/next-permutation/)| [C++](./C++/next-permutation.cpp) [Python](./Python/next-permutation.py) | _O(n*n)_  | _O(1)_ | Medium ||
 1721 | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)| [C++](./C++/swapping-nodes-in-a-linked-list.cpp)  [Python](./Python/swapping-nodes-in-a-linked-list.py) | _O(n)_ | _O(1)_ | Medium || 
 **0011** | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)| [C++](./C++/container-with-most-water.cpp) [Python](./Python/container-with-most-water.py) | _O(n)_ | _O(1)_ | Medium ||
+0923 | [3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/) | [C++](./C++/3sum-with-multiplicity.cpp) [Python](./Python/3sum-with-multiplicity.py) | _O(n^2)_ | _O(n)_  | Medium ||
