@@ -405,3 +405,4 @@
 0923 | [3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/) | [C++](./C++/3sum-with-multiplicity.cpp) [Python](./Python/3sum-with-multiplicity.py) | _O(n^2)_ | _O(n)_  | Medium ||
 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [C++](./C++/last-stone-weight.cpp) [Python](./Python/last-stone-weight.py) | _O(nlogn)_ | _O(n)_ | Easy || 
 0703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [C++](./C++/kth-largest-element-in-a-stream.cpp) [Python](./Python/kth-largest-element-in-a-stream.py) | _O(nlogk)_ | _O(k)_ | Easy || 
+0682 | [Baseball Game](https://leetcode.com/problems/baseball-game/) | [C++](./C++/baseball-game.cpp) [Python](./Python/baseball-game.py) | _O(n)_  | _O(n)_  | Easy ||
