@@ -406,3 +406,4 @@
 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [C++](./C++/last-stone-weight.cpp) [Python](./Python/last-stone-weight.py) | _O(nlogn)_ | _O(n)_ | Easy || 
 0703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [C++](./C++/kth-largest-element-in-a-stream.cpp) [Python](./Python/kth-largest-element-in-a-stream.py) | _O(nlogk)_ | _O(k)_ | Easy || 
 0682 | [Baseball Game](https://leetcode.com/problems/baseball-game/) | [C++](./C++/baseball-game.cpp) [Python](./Python/baseball-game.py) | _O(n)_  | _O(n)_  | Easy ||
+1260 | [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) | [C++](./C++/shift-2d-grid.cpp) [Python](./Python/shift-2d-grid.py) | _O(n)_ | _O(1)_ | Easy  ||
