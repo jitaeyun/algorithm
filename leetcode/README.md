@@ -411,3 +411,4 @@
 0059 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [C++](./C++/spiral-matrix-ii.cpp) [Python](./Python/spiral-matrix-ii.py) | _O(n^2)_ | _O(1)_ | Medium  || 
 0700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [C++](./C++/search-in-a-binary-search-tree.cpp) [Python](./Python/search-in-a-binary-search-tree.py) | _O(h)_ | _O(1)_ | Easy ||
 **0669** | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [C++](./C++/trim-a-binary-search-tree.cpp) [Python](./Python/trim-a-binary-search-tree.py) | _O(n)_  | _O(h)_ | Medium ||
+0538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [C++](./C++/convert-bst-to-greater-tree.cpp) [Python](./Python/convert-bst-to-greater-tree.py) | _O(n)_ | _O(h)_ | Easy || 
