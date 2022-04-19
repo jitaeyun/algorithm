@@ -414,3 +414,4 @@
 0538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [C++](./C++/convert-bst-to-greater-tree.cpp) [Python](./Python/convert-bst-to-greater-tree.py) | _O(n)_ | _O(h)_ | Easy || 
 0897 | [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/) | [C++](./C++/increasing-order-search-tree.cpp) [Python](./Python/increasing-order-search-tree.py) | _O(n)_  | _O(h)_  | Easy ||
 **0230** | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [C++](./C++/kth-smallest-element-in-a-bst.cpp) [Python](./Python/kth-smallest-element-in-a-bst.py) | _O(max(h, k))_ | _O(min(h, k))_ | Medium ||
+**0099** | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | [C++](./C++/recover-binary-search-tree.cpp) [Python](./Python/recover-binary-search-tree.py) | _O(n)_| _O(n)_| Medium ||
