@@ -416,3 +416,4 @@
 **0230** | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [C++](./C++/kth-smallest-element-in-a-bst.cpp) [Python](./Python/kth-smallest-element-in-a-bst.py) | _O(max(h, k))_ | _O(min(h, k))_ | Medium ||
 **0099** | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | [C++](./C++/recover-binary-search-tree.cpp) [Python](./Python/recover-binary-search-tree.py) | _O(n)_| _O(n)_| Medium ||
 **1396** | [Design Underground System](https://leetcode.com/problems/design-underground-system/) | [C++](./C++/design-underground-system.cpp) [Python](./Python/design-underground-system.py) | ctor: _O(1)_<br>checkin: _O(1)_<br>checkout: _O(1)_<br>getaverage: _O(1)_ | _O(n)_ | Medium ||
+**0284** | [Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)| [C++](./C++/peeking-iterator.cpp) [Python](./Python/peeking-iterator.py) | _O(1)_ | _O(1)_ | Medium ||
