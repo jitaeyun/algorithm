@@ -421,3 +421,4 @@
 **1202** | [Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/) | [C++](./C++/smallest-string-with-swaps.cpp) [Python](./Python/smallest-string-with-swaps.py) | _O(nlogn)_  | _O(n)_ | Medium  ||
 **1631** | [Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/)  | [C++](./C++/path-with-minimum-effort.cpp) [Python](./Python/path-with-minimum-effort.py) | _O(m * n * log(m * n))_| _O(m * n)_| Medium || 
 **0785** | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | [C++](./C++/is-graph-bipartite.cpp) [Python](./Python/is-graph-bipartite.py) | _O(\|V\| + \|E\|)_  | _O(\|V\|)_  | Medium ||
+**0399** | [Evaluate Division](https://leetcode.com/problems/evaluate-division/) | [C++](./C++/evaluate-division.cpp)  [Python](./Python/evaluate-division.py)  | _O(e + q)_ | _O(e)_ | Medium ||
